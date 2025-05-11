@@ -1,1 +1,103 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>谷歌搜索 on LinK's Blog</title><link>https://0linkun.github.io/tags/%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2/</link><description>Recent content in 谷歌搜索 on LinK's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 28 Nov 2023 00:19:13 +0800</lastBuildDate><atom:link href="https://0linkun.github.io/tags/%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2/rss.xml" rel="self" type="application/rss+xml"/><item><title>谷歌搜索语法</title><link>https://0linkun.github.io/post/google%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95.html</link><pubDate>Tue, 28 Nov 2023 00:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/google%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95.html</guid><description>语法 注释 inurl://admin/login.php 查找管理员登陆页面 inurl:phpmyadmin/index.php 查找后台数据库管理页面 inurl:Login admin 返回url中含有Login和admin的网页 site:baidu.com inurl:Login 只在baidu.com中查找url中</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>谷歌搜索 on LinKer's Blog</title><link>https://blog.000k.de/tags/%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2/</link><description>Recent content in 谷歌搜索 on LinKer's Blog</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Tue, 28 Nov 2023 00:19:13 +0800</lastBuildDate><atom:link href="https://blog.000k.de/tags/%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2/rss.xml" rel="self" type="application/rss+xml"/><item><title>谷歌搜索语法</title><link>https://blog.000k.de/post/google%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95.html</link><pubDate>Tue, 28 Nov 2023 00:19:13 +0800</pubDate><guid>https://blog.000k.de/post/google%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95.html</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>语法&lt;/th>
+ &lt;th>注释&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>inurl://admin/login.php&lt;/td>
+ &lt;td>查找管理员登陆页面&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>inurl:phpmyadmin/index.php&lt;/td>
+ &lt;td>查找后台数据库管理页面&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>inurl:Login admin&lt;/td>
+ &lt;td>返回url中含有Login和admin的网页&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>site:baidu.com inurl:Login&lt;/td>
+ &lt;td>只在baidu.com中查找url中含有Login的网页&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>site:baidu.com filetype:pdf&lt;/td>
+ &lt;td>只返回baidu.com站点上文件类型为pdf的网页&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>link:www.baidu.com&lt;/td>
+ &lt;td>返回所有包含指向 
+&lt;a href="https://www.baidu.com" title="www.baidu.com" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ www.baidu.com
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a> 的网页&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>related:www.llhc.edu.cn&lt;/td>
+ &lt;td>返回与 
+&lt;a href="https://www.llhc.edu.cn" title="www.llhc.edu.cn" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ www.llhc.edu.cn
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a> 网页布局相似的页面&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>info:www.baidu.com&lt;/td>
+ &lt;td>返回百度的一些信息&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>define:Hacker&lt;/td>
+ &lt;td>返回关于Hacker的定义&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>site:xx.com intext:管理 site:xx.com inurl:login site:xx.com intitle:后台&lt;/td>
+ &lt;td>查找网站后台&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>site:xx.com filetype:php&lt;/td>
+ &lt;td>查看服务器使用的程序&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>site:xx.com inurl:file site:xx.com inurl:load&lt;/td>
+ &lt;td>查看上传漏洞&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="大致命令">大致命令：
+&lt;a class="header-anchor" href="#%e5%a4%a7%e8%87%b4%e5%91%bd%e4%bb%a4">&lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt" id="hl-0-1">&lt;a class="lnlinks" href="#hl-0-1"> 1&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-2">&lt;a class="lnlinks" href="#hl-0-2"> 2&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-3">&lt;a class="lnlinks" href="#hl-0-3"> 3&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-4">&lt;a class="lnlinks" href="#hl-0-4"> 4&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-5">&lt;a class="lnlinks" href="#hl-0-5"> 5&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-6">&lt;a class="lnlinks" href="#hl-0-6"> 6&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-7">&lt;a class="lnlinks" href="#hl-0-7"> 7&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-8">&lt;a class="lnlinks" href="#hl-0-8"> 8&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-9">&lt;a class="lnlinks" href="#hl-0-9"> 9&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-10">&lt;a class="lnlinks" href="#hl-0-10">10&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-11">&lt;a class="lnlinks" href="#hl-0-11">11&lt;/a>
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">intext：寻找正文中含有关键字的网页
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">intitle：寻找标题中含有关键字的网页
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">allintitle：用法和intitle类似，只不过可以指定多个词
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">inurl：将返回url中含有关键词的网页
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">allinurl：用法和inurl类似，只不过可以指定多个词
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">site：指定访问的站点
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">filetype：指定访问的文件类型
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">link：指定链接的网页
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">related：相似类型的网页
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">info：返回站点的指定信息
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">define：返回某个词语的定义&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>
+
+&lt;p>上面这些命令中用的最多的就是 inurl: 了，利用这个命令，可以查到很多意想不到的东西&lt;/p></description></item></channel></rss>

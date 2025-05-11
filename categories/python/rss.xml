@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>python on LinK's Blog</title><link>https://0linkun.github.io/categories/python/</link><description>Recent content in python on LinK's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 02 Dec 2023 12:19:13 +0800</lastBuildDate><atom:link href="https://0linkun.github.io/categories/python/rss.xml" rel="self" type="application/rss+xml"/><item><title>各个语言做服务器</title><link>https://0linkun.github.io/post/%E7%AE%80%E6%98%93%E6%9C%8D%E5%8A%A1%E5%99%A8.html</link><pubDate>Sat, 02 Dec 2023 12:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/%E7%AE%80%E6%98%93%E6%9C%8D%E5%8A%A1%E5%99%A8.html</guid><description>Python python -m SimpleHTTPServer 默认的端口号是8000， 服务器根目录就是运行python命令的工作目录 如果是python3版本： 则试一下命令： python -m http.server 用http://</description></item><item><title>爬取学校官网通知</title><link>https://0linkun.github.io/post/%E7%88%AC%E5%8F%96%E5%AD%A6%E6%A0%A1%E5%AE%98%E7%BD%91%E9%80%9A%E7%9F%A5/</link><pubDate>Tue, 20 Jun 2023 00:00:13 +0800</pubDate><guid>https://0linkun.github.io/post/%E7%88%AC%E5%8F%96%E5%AD%A6%E6%A0%A1%E5%AE%98%E7%BD%91%E9%80%9A%E7%9F%A5/</guid><description>爬虫开始 首先看到页面呈现规则的各个方框，这意味着它们之间的一定是一样的 此处该有图 我们点开后台可以看见属于通知活动的代码中很多这类”li“标签</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on LinKer's Blog</title><link>https://blog.000k.de/categories/python/</link><description>Recent content in Python on LinKer's Blog</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Sat, 02 Dec 2023 12:19:13 +0800</lastBuildDate><atom:link href="https://blog.000k.de/categories/python/rss.xml" rel="self" type="application/rss+xml"/><item><title>各个语言做服务器</title><link>https://blog.000k.de/post/%E7%AE%80%E6%98%93%E6%9C%8D%E5%8A%A1%E5%99%A8.html</link><pubDate>Sat, 02 Dec 2023 12:19:13 +0800</pubDate><guid>https://blog.000k.de/post/%E7%AE%80%E6%98%93%E6%9C%8D%E5%8A%A1%E5%99%A8.html</guid><description>&lt;h2 id="python">Python
+&lt;a class="header-anchor" href="#python">&lt;/a>
+&lt;/h2>&lt;p>&lt;strong>python -m SimpleHTTPServer&lt;/strong>&lt;/p>
+&lt;p>默认的端口号是8000， 服务器根目录就是运行python命令的工作目录&lt;/p>
+&lt;p>如果是python3版本：&lt;/p>
+&lt;p>则试一下命令：&lt;/p>
+&lt;p>&lt;strong>python -m http.server&lt;/strong>&lt;/p>
+&lt;p>用http://127.0.0.1:8000即可访问目录下内容&lt;/p></description></item><item><title>爬取学校官网通知</title><link>https://blog.000k.de/post/%E7%88%AC%E5%8F%96%E5%AD%A6%E6%A0%A1%E5%AE%98%E7%BD%91%E9%80%9A%E7%9F%A5/</link><pubDate>Tue, 20 Jun 2023 00:00:13 +0800</pubDate><guid>https://blog.000k.de/post/%E7%88%AC%E5%8F%96%E5%AD%A6%E6%A0%A1%E5%AE%98%E7%BD%91%E9%80%9A%E7%9F%A5/</guid><description>&lt;h2 id="爬虫开始">爬虫开始
+&lt;a class="header-anchor" href="#%e7%88%ac%e8%99%ab%e5%bc%80%e5%a7%8b">&lt;/a>
+&lt;/h2>&lt;p>首先看到页面呈现规则的各个方框，这意味着它们之间的一定是一样的&lt;/p>
+&lt;p>此处该有图&lt;/p>
+&lt;p>&lt;img src="https://blog.000k.de/imgs/img-lazy-loading.gif" data-src="https://s1.ax1x.com/2023/06/19/pC32YiF.png" alt="网页截图" />&lt;/p>
+&lt;p>我们点开后台可以看见属于通知活动的代码中很多这类”li“标签&lt;/p>
+
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt" id="hl-0-1">&lt;a class="lnlinks" href="#hl-0-1"> 1&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-2">&lt;a class="lnlinks" href="#hl-0-2"> 2&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-3">&lt;a class="lnlinks" href="#hl-0-3"> 3&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-4">&lt;a class="lnlinks" href="#hl-0-4"> 4&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-5">&lt;a class="lnlinks" href="#hl-0-5"> 5&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-6">&lt;a class="lnlinks" href="#hl-0-6"> 6&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-7">&lt;a class="lnlinks" href="#hl-0-7"> 7&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-8">&lt;a class="lnlinks" href="#hl-0-8"> 8&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-9">&lt;a class="lnlinks" href="#hl-0-9"> 9&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-10">&lt;a class="lnlinks" href="#hl-0-10">10&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-11">&lt;a class="lnlinks" href="#hl-0-11">11&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-12">&lt;a class="lnlinks" href="#hl-0-12">12&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-13">&lt;a class="lnlinks" href="#hl-0-13">13&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-14">&lt;a class="lnlinks" href="#hl-0-14">14&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-15">&lt;a class="lnlinks" href="#hl-0-15">15&lt;/a>
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-html" data-lang="html">&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">li&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">a&lt;/span> &lt;span class="na">href&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;../info/1042/48792.htm&amp;#34;&lt;/span> &lt;span class="na">target&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;_blank&amp;#34;&lt;/span> &lt;span class="na">title&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;关于开展2018届毕业生中期发展评价的通知&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">div&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;box&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">div&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;time&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">div&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;ll&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">img&lt;/span> &lt;span class="na">src&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;../images/list_box_07_ico.png&amp;#34;&lt;/span> &lt;span class="na">alt&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>2023.06.09
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">div&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">div&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;rr&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">img&lt;/span> &lt;span class="na">src&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;../images/list_box_24_ico.png&amp;#34;&lt;/span> &lt;span class="na">alt&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">div&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">div&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">h5&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;overfloat-dot-2&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>关于开展2018届毕业生中期发展评价的通知&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">h5&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">div&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="err">&amp;lt;&lt;/span>/&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>
+
+&lt;p>那么我们可以分别截取一下几个标签，分别是&lt;/p></description></item></channel></rss>

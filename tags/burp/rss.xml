@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>burp on LinK's Blog</title><link>https://0linkun.github.io/tags/burp/</link><description>Recent content in burp on LinK's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 19 Sep 2023 00:19:13 +0800</lastBuildDate><atom:link href="https://0linkun.github.io/tags/burp/rss.xml" rel="self" type="application/rss+xml"/><item><title>试修改莞工计科助手页面成绩</title><link>https://0linkun.github.io/post/1111.html</link><pubDate>Tue, 19 Sep 2023 00:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/1111.html</guid><description>一、实践工具 代理工具：Proxifier 3.42 抓包工具：BurpSuite V2023.3.2 二、最终效果截图 三、实现原理 用Proxifier对电脑上面的小程序的</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Burp on LinKer's Blog</title><link>https://blog.000k.de/tags/burp/</link><description>Recent content in Burp on LinKer's Blog</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Tue, 19 Sep 2023 00:19:13 +0800</lastBuildDate><atom:link href="https://blog.000k.de/tags/burp/rss.xml" rel="self" type="application/rss+xml"/><item><title>试修改莞工计科助手页面成绩</title><link>https://blog.000k.de/post/1111.html</link><pubDate>Tue, 19 Sep 2023 00:19:13 +0800</pubDate><guid>https://blog.000k.de/post/1111.html</guid><description>&lt;h3 id="一实践工具">一、实践工具
+&lt;a class="header-anchor" href="#%e4%b8%80%e5%ae%9e%e8%b7%b5%e5%b7%a5%e5%85%b7">&lt;/a>
+&lt;/h3>&lt;p>代理工具：Proxifier 3.42&lt;/p>
+&lt;p>抓包工具：BurpSuite V2023.3.2&lt;/p>
+&lt;h3 id="二最终效果截图">二、最终效果截图
+&lt;a class="header-anchor" href="#%e4%ba%8c%e6%9c%80%e7%bb%88%e6%95%88%e6%9e%9c%e6%88%aa%e5%9b%be">&lt;/a>
+&lt;/h3>&lt;p>&lt;img src="https://blog.000k.de/imgs/img-lazy-loading.gif" data-src="https://z1.ax1x.com/2023/09/19/pP599u8.png" alt="pP599u8.png" />&lt;/p>
+&lt;h3 id="三实现原理">三、实现原理
+&lt;a class="header-anchor" href="#%e4%b8%89%e5%ae%9e%e7%8e%b0%e5%8e%9f%e7%90%86">&lt;/a>
+&lt;/h3>&lt;p>用Proxifier对电脑上面的小程序的流量进行代理，将流量全部导向burp的8080端口，让burp可以进行改包。&lt;/p></description></item></channel></rss>

@@ -1,1 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vue on LinK's Blog</title><link>https://0linkun.github.io/categories/vue/</link><description>Recent content in Vue on LinK's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 01 May 2023 22:19:13 +0800</lastBuildDate><atom:link href="https://0linkun.github.io/categories/vue/rss.xml" rel="self" type="application/rss+xml"/><item><title>Vue项目学习</title><link>https://0linkun.github.io/post/Studyweb.html</link><pubDate>Mon, 01 May 2023 22:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/Studyweb.html</guid><description>Vue学习笔记 一、二维数组尝试 var vm = new Vue({ el: &amp;#34;#app&amp;#34;, data: { huilv:[ [6.8540, 132.9787, 1298.7013, 1.3278], [6.8540, 132.9787, 1298.7013, 1.3278] ],} 二、watch监听实现 watch: { first: function(newValue) { this.second = newValue * this.huilv[Number(this.firstbutton - 1)][Number(this.secondbutton -1)]; }, second: function(newValue) { this.first = newValue / this.huilv[Number(this.firstbutton - 1)][Number(this.secondbutton -1)];</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vue on LinKer's Blog</title><link>https://blog.000k.de/categories/vue/</link><description>Recent content in Vue on LinKer's Blog</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Mon, 01 May 2023 22:19:13 +0800</lastBuildDate><atom:link href="https://blog.000k.de/categories/vue/rss.xml" rel="self" type="application/rss+xml"/><item><title>Vue项目学习</title><link>https://blog.000k.de/post/Studyweb.html</link><pubDate>Mon, 01 May 2023 22:19:13 +0800</pubDate><guid>https://blog.000k.de/post/Studyweb.html</guid><description>&lt;h1 id="vue学习笔记">Vue学习笔记
+&lt;a class="header-anchor" href="#vue%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0">&lt;/a>
+&lt;/h1>&lt;h2 id="一二维数组尝试">一、二维数组尝试
+&lt;a class="header-anchor" href="#%e4%b8%80%e4%ba%8c%e7%bb%b4%e6%95%b0%e7%bb%84%e5%b0%9d%e8%af%95">&lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt" id="hl-0-1">&lt;a class="lnlinks" href="#hl-0-1">1&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-2">&lt;a class="lnlinks" href="#hl-0-2">2&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-3">&lt;a class="lnlinks" href="#hl-0-3">3&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-4">&lt;a class="lnlinks" href="#hl-0-4">4&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-5">&lt;a class="lnlinks" href="#hl-0-5">5&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-6">&lt;a class="lnlinks" href="#hl-0-6">6&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-7">&lt;a class="lnlinks" href="#hl-0-7">7&lt;/a>
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-js" data-lang="js">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">var&lt;/span> &lt;span class="nx">vm&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="nx">Vue&lt;/span>&lt;span class="p">({&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">	&lt;span class="nx">el&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;#app&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">	&lt;span class="nx">data&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">	&lt;span class="nx">huilv&lt;/span>&lt;span class="o">:&lt;/span>&lt;span class="p">[&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">	&lt;span class="p">[&lt;/span>&lt;span class="mf">6.8540&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mf">132.9787&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mf">1298.7013&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mf">1.3278&lt;/span>&lt;span class="p">],&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">	&lt;span class="p">[&lt;/span>&lt;span class="mf">6.8540&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mf">132.9787&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mf">1298.7013&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mf">1.3278&lt;/span>&lt;span class="p">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">		&lt;span class="p">],}&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>
+
+&lt;h2 id="二watch监听实现">二、watch监听实现
+&lt;a class="header-anchor" href="#%e4%ba%8cwatch%e7%9b%91%e5%90%ac%e5%ae%9e%e7%8e%b0">&lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt" id="hl-1-1">&lt;a class="lnlinks" href="#hl-1-1">1&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-2">&lt;a class="lnlinks" href="#hl-1-2">2&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-3">&lt;a class="lnlinks" href="#hl-1-3">3&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-4">&lt;a class="lnlinks" href="#hl-1-4">4&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-5">&lt;a class="lnlinks" href="#hl-1-5">5&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-6">&lt;a class="lnlinks" href="#hl-1-6">6&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-7">&lt;a class="lnlinks" href="#hl-1-7">7&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-8">&lt;a class="lnlinks" href="#hl-1-8">8&lt;/a>
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-javascript" data-lang="javascript">&lt;span class="line">&lt;span class="cl">&lt;span class="nx">watch&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">			&lt;span class="nx">first&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="kd">function&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">newValue&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">	 &lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">second&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nx">newValue&lt;/span> &lt;span class="o">*&lt;/span> &lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">huilv&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="nb">Number&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">firstbutton&lt;/span> &lt;span class="o">-&lt;/span> &lt;span class="mi">1&lt;/span>&lt;span class="p">)][&lt;/span>&lt;span class="nb">Number&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">secondbutton&lt;/span> &lt;span class="o">-&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">)];&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">					&lt;span class="p">},&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">			&lt;span class="nx">second&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="kd">function&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">newValue&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">		&lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">first&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nx">newValue&lt;/span> &lt;span class="o">/&lt;/span> &lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">huilv&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="nb">Number&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">firstbutton&lt;/span> &lt;span class="o">-&lt;/span> &lt;span class="mi">1&lt;/span>&lt;span class="p">)][&lt;/span>&lt;span class="nb">Number&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">secondbutton&lt;/span> &lt;span class="o">-&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">)];&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">					&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">				&lt;span class="p">}&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>
+
+&lt;h2 id="三数组的更新检测">三、数组的更新检测
+&lt;a class="header-anchor" href="#%e4%b8%89%e6%95%b0%e7%bb%84%e7%9a%84%e6%9b%b4%e6%96%b0%e6%a3%80%e6%b5%8b">&lt;/a>
+&lt;/h2>&lt;h3 id="变更方法">#变更方法
+&lt;a class="header-anchor" href="#%e5%8f%98%e6%9b%b4%e6%96%b9%e6%b3%95">&lt;/a>
+&lt;/h3>&lt;p>Vue 将被侦听的数组的变更方法进行了包裹，所以它们也将会触发视图更新。这些被包裹过的方法包括：&lt;/p></description></item></channel></rss>

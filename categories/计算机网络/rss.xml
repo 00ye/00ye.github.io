@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>计算机网络 on LinK's Blog</title><link>https://0linkun.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</link><description>Recent content in 计算机网络 on LinK's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 02 Dec 2023 00:19:13 +0800</lastBuildDate><atom:link href="https://0linkun.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/rss.xml" rel="self" type="application/rss+xml"/><item><title>当你上网的那瞬间发生了什么？</title><link>https://0linkun.github.io/post/startWeb.html</link><pubDate>Sat, 02 Dec 2023 00:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/startWeb.html</guid><description>这个仓库试图回答一个古老的面试问题：当你在浏览器中输入 google.com 并且按下回车之后发生了什么？ 不过我们不再局限于平常的回答，而是想办法回答地尽可能具体</description></item><item><title>ICMP数据报ping命令</title><link>https://0linkun.github.io/post/ping%E5%91%BD%E4%BB%A4/</link><pubDate>Sat, 27 May 2023 22:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/ping%E5%91%BD%E4%BB%A4/</guid><description>Q: 结合实例“ping www.sina.com ”给出 ping 命令的原理。 Ping命令是一种常用的网络诊断工具，可以检测主机之间的联通性，测试网络连接速度和带宽使用情况。该</description></item><item><title>ICMP数据报tracert命令</title><link>https://0linkun.github.io/post/tracert%E5%91%BD%E4%BB%A4/</link><pubDate>Sat, 27 May 2023 22:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/tracert%E5%91%BD%E4%BB%A4/</guid><description>Q: 结合实例“tracert www.163.com ”给出 tracert 命令的原理。 tracert命令是一款常用的网络诊断工具，它可以追踪Internet上从一个起始点到达另一</description></item><item><title>ICMP数据报Identifier中BE和LE的区别</title><link>https://0linkun.github.io/post/BEorLE.html</link><pubDate>Fri, 26 May 2023 22:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/BEorLE.html</guid><description>Q: 在icmp数据报中的标识符 Identifier (BE): 512 (0x0200) Identifier (LE): 2 (0x0002)这两个标识符有什么区别，有什么用，说个例子解释一下 这两个标识符都是 ICMP 报文中的标识符</description></item><item><title>图解HTTP</title><link>https://0linkun.github.io/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AC%94%E8%AE%B0/</link><pubDate>Thu, 18 May 2023 22:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AC%94%E8%AE%B0/</guid><description>图解HTTP HTTP协议的职责（客户端） 生成针对目标web服务器的HTTP请求报文 TCP协议的职责（客户端） 为了方便通信，将HTTP请求报文</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>计算机网络 on LinKer's Blog</title><link>https://blog.000k.de/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</link><description>Recent content in 计算机网络 on LinKer's Blog</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Sat, 02 Dec 2023 00:19:13 +0800</lastBuildDate><atom:link href="https://blog.000k.de/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/rss.xml" rel="self" type="application/rss+xml"/><item><title>当你上网的那瞬间发生了什么？</title><link>https://blog.000k.de/post/startWeb.html</link><pubDate>Sat, 02 Dec 2023 00:19:13 +0800</pubDate><guid>https://blog.000k.de/post/startWeb.html</guid><description>&lt;p>这个仓库试图回答一个古老的面试问题：当你在浏览器中输入 google.com
+并且按下回车之后发生了什么？&lt;/p>
+&lt;p>不过我们不再局限于平常的回答，而是想办法回答地尽可能具体，不遗漏任何细节。&lt;/p></description></item><item><title>ICMP数据报ping命令</title><link>https://blog.000k.de/post/ping%E5%91%BD%E4%BB%A4/</link><pubDate>Sat, 27 May 2023 22:19:13 +0800</pubDate><guid>https://blog.000k.de/post/ping%E5%91%BD%E4%BB%A4/</guid><description>&lt;blockquote>
+ &lt;p>Q: 结合实例“ping 
+&lt;a href="https://www.sina.com" title="www.sina.com" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ www.sina.com
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a>”给出 ping 命令的原理。&lt;/p>
+ &lt;/blockquote>
+&lt;p>Ping命令是一种常用的网络诊断工具，可以检测主机之间的联通性，测试网络连接速度和带宽使用情况。该命令发送一个数据包到目标主机，然后等待该主机响应，并记录来自目标主机的回复时间和信息，以供分析使用。&lt;/p></description></item><item><title>ICMP数据报tracert命令</title><link>https://blog.000k.de/post/tracert%E5%91%BD%E4%BB%A4/</link><pubDate>Sat, 27 May 2023 22:19:13 +0800</pubDate><guid>https://blog.000k.de/post/tracert%E5%91%BD%E4%BB%A4/</guid><description>&lt;blockquote>
+ &lt;p>Q: 结合实例“tracert 
+&lt;a href="https://www.163.com" title="www.163.com" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ www.163.com
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a>”给出 tracert 命令的原理。&lt;/p>
+ &lt;/blockquote>
+&lt;p>tracert命令是一款常用的网络诊断工具，它可以追踪Internet上从一个起始点到达另一个目的地的路由路径，并显示每个跃点的延迟时间。当我们执行“tracert 
+&lt;a href="https://www.163.com" title="www.163.com" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ www.163.com
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a>”的时候，操作系统就会发送一系列的数据包探测从本机到目标地址的路由，其中包括访问的每个信号跳跃点的详细信息。接下来，我将简要介绍一下“tracert”命令的原理。&lt;/p></description></item><item><title>ICMP数据报Identifier中BE和LE的区别</title><link>https://blog.000k.de/post/BEorLE.html</link><pubDate>Fri, 26 May 2023 22:19:13 +0800</pubDate><guid>https://blog.000k.de/post/BEorLE.html</guid><description>&lt;blockquote>
+ &lt;p>Q: 在icmp数据报中的标识符 Identifier (BE): 512 (0x0200) Identifier (LE): 2 (0x0002)这两个标识符有什么区别，有什么用，说个例子解释一下&lt;/p>
+ &lt;/blockquote>
+&lt;p>这两个标识符都是 ICMP 报文中的标识符字段，用于标识发送方发送的 ICMP 报文。区别在于 BE 和 LE 分别代表大端序和小端序，即字节序的不同。&lt;/p></description></item><item><title>图解HTTP</title><link>https://blog.000k.de/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AC%94%E8%AE%B0/</link><pubDate>Thu, 18 May 2023 22:19:13 +0800</pubDate><guid>https://blog.000k.de/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AC%94%E8%AE%B0/</guid><description>&lt;h1 id="图解http">图解HTTP
+&lt;a class="header-anchor" href="#%e5%9b%be%e8%a7%a3http">&lt;/a>
+&lt;/h1>&lt;h2 id="http协议的职责客户端">HTTP协议的职责（客户端）
+&lt;a class="header-anchor" href="#http%e5%8d%8f%e8%ae%ae%e7%9a%84%e8%81%8c%e8%b4%a3%e5%ae%a2%e6%88%b7%e7%ab%af">&lt;/a>
+&lt;/h2>&lt;p>生成针对目标web服务器的HTTP请求报文&lt;/p>
+&lt;h2 id="tcp协议的职责客户端">TCP协议的职责（客户端）
+&lt;a class="header-anchor" href="#tcp%e5%8d%8f%e8%ae%ae%e7%9a%84%e8%81%8c%e8%b4%a3%e5%ae%a2%e6%88%b7%e7%ab%af">&lt;/a>
+&lt;/h2>&lt;p>为了方便通信，将HTTP请求报文分割成报文段按序号分成多个报文段，把每个报文段可靠地传给对方&lt;/p>
+&lt;h2 id="ip协议的职责路由器">IP协议的职责（路由器）
+&lt;a class="header-anchor" href="#ip%e5%8d%8f%e8%ae%ae%e7%9a%84%e8%81%8c%e8%b4%a3%e8%b7%af%e7%94%b1%e5%99%a8">&lt;/a>
+&lt;/h2>&lt;p>搜索对方的地址，一边中转一边传送&lt;/p></description></item></channel></rss>

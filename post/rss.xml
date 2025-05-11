@@ -1,1 +1,2148 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on LinK's Blog</title><link>https://0linkun.github.io/post/</link><description>Recent content in Posts on LinK's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 10 May 2025 00:19:13 +0800</lastBuildDate><atom:link href="https://0linkun.github.io/post/rss.xml" rel="self" type="application/rss+xml"/><item><title>网安学习路径</title><link>https://0linkun.github.io/post/wanganstudy.html</link><pubDate>Fri, 26 May 2023 22:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/wanganstudy.html</guid><description>网络安全学习路线 一、BurpSuite学习 1、使用浏览器给burp代理，进行拦截，获得数据，然后改文件名字或者MIME，达到符合前后端的过滤</description></item><item><title>使用hugo框架+github action创建个人博客</title><link>https://0linkun.github.io/post/hugo+githubactionstudy.html</link><pubDate>Sat, 10 May 2025 00:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/hugo+githubactionstudy.html</guid><description>使用hugo框架+github action创建个人博客 本操作是使用静态页面后的进阶操作，主要是为了省去在本地进行hugo编译的步骤。理想的状</description></item><item><title>基于P2P+组播的文件传输工具</title><link>https://0linkun.github.io/post/P2PFile.html</link><pubDate>Wed, 26 Mar 2025 22:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/P2PFile.html</guid><description>基于P2P+组播的文件传输工具 项目概述 本项目是一个基于局域网（或本地测试环境）的简易P2P文件传输程序，目前处于基本完成状态。环境java1</description></item><item><title>行测词语成语积累</title><link>https://0linkun.github.io/post/%E8%A1%8C%E6%B5%8B%E8%AF%8D%E8%AF%AD%E6%88%90%E8%AF%AD%E7%A7%AF%E7%B4%AF.html</link><pubDate>Mon, 22 Apr 2024 00:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/%E8%A1%8C%E6%B5%8B%E8%AF%8D%E8%AF%AD%E6%88%90%E8%AF%AD%E7%A7%AF%E7%B4%AF.html</guid><description>在备考中，我发现有相当多的高频成语出现在全国各地的行测真题中。相比于常识，成语的范围其实相当有限，常用的成语不过成百上千个，因此在平时可以用</description></item><item><title>查看开放端口</title><link>https://0linkun.github.io/post/%E6%9F%A5%E7%9C%8B%E5%BC%80%E6%94%BE%E7%AB%AF%E5%8F%A3.html</link><pubDate>Mon, 08 Apr 2024 18:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/%E6%9F%A5%E7%9C%8B%E5%BC%80%E6%94%BE%E7%AB%AF%E5%8F%A3.html</guid><description>linux netstat命令： 查询显示网络连接、路由表和网络接口等信息。使用以下命令可以查看当前开启的端口 命令参数： -a或–all 显示所有连线中的S</description></item><item><title>菜刀、蚁剑、冰蝎流量特征</title><link>https://0linkun.github.io/post/webshell.html</link><pubDate>Sat, 16 Mar 2024 10:00:13 +0800</pubDate><guid>https://0linkun.github.io/post/webshell.html</guid><description>菜刀 使用了base64的方式加密了发送给“菜刀马”的指令，其中的两个关键payload z1和z2，这个名字是可变的 蚁剑 默认的USER-age</description></item><item><title>Django项目学习(一)</title><link>https://0linkun.github.io/post/DjangoOne.html</link><pubDate>Sat, 16 Mar 2024 10:00:00 +0800</pubDate><guid>https://0linkun.github.io/post/DjangoOne.html</guid><description>manage.py: 一个实用的命令行工具，可让你以各种方式与该 Django 项目进行交互。 默认目录 Sec_Tools/init.py一个空文件，告诉 Python 该目录是一个 Python 包。 项</description></item><item><title>tostring和getbytes不能一起使用</title><link>https://0linkun.github.io/post/tostring%E5%92%8Cgetbytes%E4%B8%8D%E8%83%BD%E4%B8%80%E8%B5%B7%E4%BD%BF%E7%94%A8.html</link><pubDate>Wed, 10 Jan 2024 22:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/tostring%E5%92%8Cgetbytes%E4%B8%8D%E8%83%BD%E4%B8%80%E8%B5%B7%E4%BD%BF%E7%94%A8.html</guid><description>问题 a.equals(a.getBytes().toString()为什么是false 解答 a.equals(a.getBytes().toString()) 这一表达式返回 false 的原因是 equals() 方法在比较字符串时，不</description></item><item><title>当前的我究竟为什么而活</title><link>https://0linkun.github.io/post/TheSecretLifeofWalterMitty.html</link><pubDate>Sun, 07 Jan 2024 07:00:13 +0800</pubDate><guid>https://0linkun.github.io/post/TheSecretLifeofWalterMitty.html</guid><description>观影背景 1、在回来的高铁上为了不浪费时间，又因为没有网，所以提前下载了一部电影——白日梦想家。 2、之前经常听说过这部电影，但有时候静不下心来</description></item><item><title>GO笔记（一）</title><link>https://0linkun.github.io/post/GoOne.html</link><pubDate>Mon, 18 Dec 2023 21:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/GoOne.html</guid><description>一、helloworld package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;Hello World&amp;#34;) } 二、变量声明 和C的完全相反，变量类型在后面，在变量名前面的是var var area int var age int = 29 // 声明变量并初</description></item><item><title>中国蚁剑-AntSword</title><link>https://0linkun.github.io/post/AntSwordstudy.html</link><pubDate>Sat, 09 Dec 2023 10:00:13 +0800</pubDate><guid>https://0linkun.github.io/post/AntSwordstudy.html</guid><description>中国蚁剑是一种跨平台操作工具，它主要提供给用户用于有效的网络渗透测试以及进行正常运行的网站。 否则任何人不得将网站用于其无效用途以及可能的等目</description></item><item><title>nc学习使用</title><link>https://0linkun.github.io/post/ncstudy.html</link><pubDate>Thu, 07 Dec 2023 23:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/ncstudy.html</guid><description>nc (ncat) Ncat is a feature-packed networking utility which reads and writes data across networks from the command line； nc(ncat)：Ncat是一个功能丰富的网络实用工具；支持端口监听、远程通信、文件传输、端口</description></item><item><title>各个语言做服务器</title><link>https://0linkun.github.io/post/%E7%AE%80%E6%98%93%E6%9C%8D%E5%8A%A1%E5%99%A8.html</link><pubDate>Sat, 02 Dec 2023 12:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/%E7%AE%80%E6%98%93%E6%9C%8D%E5%8A%A1%E5%99%A8.html</guid><description>Python python -m SimpleHTTPServer 默认的端口号是8000， 服务器根目录就是运行python命令的工作目录 如果是python3版本： 则试一下命令： python -m http.server 用http://</description></item><item><title>当你上网的那瞬间发生了什么？</title><link>https://0linkun.github.io/post/startWeb.html</link><pubDate>Sat, 02 Dec 2023 00:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/startWeb.html</guid><description>这个仓库试图回答一个古老的面试问题：当你在浏览器中输入 google.com 并且按下回车之后发生了什么？ 不过我们不再局限于平常的回答，而是想办法回答地尽可能具体</description></item><item><title>OPTION为跨域请求准备</title><link>https://0linkun.github.io/post/OPTIONstudy.html</link><pubDate>Fri, 01 Dec 2023 00:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/OPTIONstudy.html</guid><description>OPTION为跨域请求准备 先学习一下同源策略和跨域资源共享 同源策略 如果两个URL协议(protocol)、端口（port）、主机（host）</description></item><item><title>谷歌搜索语法</title><link>https://0linkun.github.io/post/google%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95.html</link><pubDate>Tue, 28 Nov 2023 00:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/google%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95.html</guid><description>语法 注释 inurl://admin/login.php 查找管理员登陆页面 inurl:phpmyadmin/index.php 查找后台数据库管理页面 inurl:Login admin 返回url中含有Login和admin的网页 site:baidu.com inurl:Login 只在baidu.com中查找url中</description></item><item><title>快捷键汇总</title><link>https://0linkun.github.io/post/fastkeyboard.html</link><pubDate>Tue, 21 Nov 2023 00:00:13 +0800</pubDate><guid>https://0linkun.github.io/post/fastkeyboard.html</guid><description>notepad&amp;ndash; 选择指定行 鼠标光标停留在一行的某处，按 Home 键光标会跳到行首，按End键光标会跳到行尾。 鼠标光标停留在行尾，按 Shift + Home 选中一行。 鼠标光标停留在行</description></item><item><title>内网渗透-通信技术</title><link>https://0linkun.github.io/post/2023/11/13StudyNeiWang.html</link><pubDate>Mon, 13 Nov 2023 08:00:13 +0800</pubDate><guid>https://0linkun.github.io/post/2023/11/13StudyNeiWang.html</guid><description>背景 当拿到某网络主机的权限，发现无法将流量或者权限发送出来，对渗透造成了很大的影响，所以内网渗透必须需要了解到两种主要的通信技术–代理与隧道</description></item><item><title>GEEK极客部分WriteUp</title><link>https://0linkun.github.io/post/GEEK%E2%80%99sWriteUp.html</link><pubDate>Tue, 07 Nov 2023 18:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/GEEK%E2%80%99sWriteUp.html</guid><description>一、easy_php isset($_GET[&amp;#39;syc&amp;#39;])&amp;amp;&amp;amp;preg_match(&amp;#39;/^Welcome to GEEK 2023!$/i&amp;#39;, $_GET[&amp;#39;syc&amp;#39;]) &amp;amp;&amp;amp; $_GET[&amp;#39;syc&amp;#39;] !== &amp;#39;Welcome to GEEK 2023!&amp;#39; isset($_GET[&amp;lsquo;syc&amp;rsquo;])：检查$_GET[&amp;lsquo;s</description></item><item><title>正向代理和反向代理</title><link>https://0linkun.github.io/post/1112.html</link><pubDate>Sat, 23 Sep 2023 00:00:13 +0800</pubDate><guid>https://0linkun.github.io/post/1112.html</guid><description>代理通常是指用户和网页服务器之间的中介。您可能了解有各种不同用途的代理。在本文中，我们将介绍正向和反向代理服务器之间的区别。首先，我们来了解</description></item><item><title>试修改莞工计科助手页面成绩</title><link>https://0linkun.github.io/post/1111.html</link><pubDate>Tue, 19 Sep 2023 00:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/1111.html</guid><description>一、实践工具 代理工具：Proxifier 3.42 抓包工具：BurpSuite V2023.3.2 二、最终效果截图 三、实现原理 用Proxifier对电脑上面的小程序的</description></item><item><title>CSRF攻击和防御</title><link>https://0linkun.github.io/post/CSRFstudy.html</link><pubDate>Fri, 11 Aug 2023 00:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/CSRFstudy.html</guid><description>CSRF攻击 CSRF 英文全称是 Cross-site request forgery，所以又称为“跨站请求伪造”，是指黑客引诱用户打开黑客的网站，在黑客的网站中，利用用户的登录状态发</description></item><item><title>学习DLL注入</title><link>https://0linkun.github.io/post/DLLstudy.html</link><pubDate>Fri, 04 Aug 2023 00:00:13 +0800</pubDate><guid>https://0linkun.github.io/post/DLLstudy.html</guid><description>dll文件简介 ​ .dll文件是Dynamic Link Library（动态链接库）文件的缩写，它是一种共享库文件，包含了程序所需的代码和数据。与静态</description></item><item><title>编码是什么</title><link>https://0linkun.github.io/post/%E7%BC%96%E7%A0%81%E6%98%AF%E4%BB%80%E4%B9%88.html</link><pubDate>Wed, 02 Aug 2023 23:00:13 +0800</pubDate><guid>https://0linkun.github.io/post/%E7%BC%96%E7%A0%81%E6%98%AF%E4%BB%80%E4%B9%88.html</guid><description>字符集与字符编码 ​ 字符是各种文字和符号的总称，包括各个国家文字、标点符号、图形符号、数字等。字符集是多个字符的集合，字符集种类较多，每个字符</description></item><item><title>关于数据库的学习和拓展</title><link>https://0linkun.github.io/post/RDBMS%E5%92%8Cnosql%E7%9A%84%E5%AD%A6%E4%B9%A0%E5%92%8C%E6%89%A9%E5%B1%95.html</link><pubDate>Tue, 01 Aug 2023 23:00:13 +0800</pubDate><guid>https://0linkun.github.io/post/RDBMS%E5%92%8Cnosql%E7%9A%84%E5%AD%A6%E4%B9%A0%E5%92%8C%E6%89%A9%E5%B1%95.html</guid><description>数据库简介 数据库是数据管理的重要技术，也是计算机的重要分支。 数据库管理系统是一种操纵和管理数据库的大型软件，用于建立、使用和维护数据库，简称</description></item><item><title>使用hugo框架创建个人博客</title><link>https://0linkun.github.io/post/hugostudy.html</link><pubDate>Tue, 01 Aug 2023 00:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/hugostudy.html</guid><description>一、配置环境 https://github.com/gohugoio/hugo/releases 下载window版本的hugo(如果该版本不属于你的window操作系统则下载最下面一行的hugo_extended_0.11</description></item><item><title>Nmap学习使用</title><link>https://0linkun.github.io/post/Nmapstudy.html</link><pubDate>Wed, 26 Jul 2023 00:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/Nmapstudy.html</guid><description>介绍 Nmap (Network Mapper) 是一个开源的网络扫描工具，用于发现主机和服务，并识别网络上的开放端口。它广泛用于网络管理员、安全专家和黑客等领域。Nmap提供了丰</description></item><item><title>SQLMAP学习使用</title><link>https://0linkun.github.io/post/sqlmapstudy.html</link><pubDate>Wed, 26 Jul 2023 00:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/sqlmapstudy.html</guid><description>SQL描述 SQLMap是一款开源的渗透测试工具，主要用于检测和利用SQL注入漏洞。它是由Burp Suite工具的开发者Bernardo Dam</description></item><item><title>关于进程控制</title><link>https://0linkun.github.io/post/custom-files.html</link><pubDate>Wed, 19 Jul 2023 22:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/custom-files.html</guid><description>Windows的TASKLIST TASKLIST [/S system [/U username [/P [password]]]] [/M [module] | /SVC | /V] [/FI filter] [/FO format] [/NH] 描述 该工具显示在本地或远程机器上当前运行的进程列表。 参数列表: /S system 指定连</description></item><item><title>爬取学校官网通知</title><link>https://0linkun.github.io/post/%E7%88%AC%E5%8F%96%E5%AD%A6%E6%A0%A1%E5%AE%98%E7%BD%91%E9%80%9A%E7%9F%A5/</link><pubDate>Tue, 20 Jun 2023 00:00:13 +0800</pubDate><guid>https://0linkun.github.io/post/%E7%88%AC%E5%8F%96%E5%AD%A6%E6%A0%A1%E5%AE%98%E7%BD%91%E9%80%9A%E7%9F%A5/</guid><description>爬虫开始 首先看到页面呈现规则的各个方框，这意味着它们之间的一定是一样的 此处该有图 我们点开后台可以看见属于通知活动的代码中很多这类”li“标签</description></item><item><title>Codebreakers战队 WriteUp</title><link>https://0linkun.github.io/post/Codebreakers%E2%80%99sWriteUp.html</link><pubDate>Sat, 03 Jun 2023 18:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/Codebreakers%E2%80%99sWriteUp.html</guid><description>排名 战队名称：第225名 ] 解题思路 1、解压管道压缩包得到一张图片 2、将图片用StegSolve打开，不断查看图片各个通道，会发现在单色0通道</description></item><item><title>ICMP数据报ping命令</title><link>https://0linkun.github.io/post/ping%E5%91%BD%E4%BB%A4/</link><pubDate>Sat, 27 May 2023 22:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/ping%E5%91%BD%E4%BB%A4/</guid><description>Q: 结合实例“ping www.sina.com ”给出 ping 命令的原理。 Ping命令是一种常用的网络诊断工具，可以检测主机之间的联通性，测试网络连接速度和带宽使用情况。该</description></item><item><title>ICMP数据报tracert命令</title><link>https://0linkun.github.io/post/tracert%E5%91%BD%E4%BB%A4/</link><pubDate>Sat, 27 May 2023 22:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/tracert%E5%91%BD%E4%BB%A4/</guid><description>Q: 结合实例“tracert www.163.com ”给出 tracert 命令的原理。 tracert命令是一款常用的网络诊断工具，它可以追踪Internet上从一个起始点到达另一</description></item><item><title>ICMP数据报Identifier中BE和LE的区别</title><link>https://0linkun.github.io/post/BEorLE.html</link><pubDate>Fri, 26 May 2023 22:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/BEorLE.html</guid><description>Q: 在icmp数据报中的标识符 Identifier (BE): 512 (0x0200) Identifier (LE): 2 (0x0002)这两个标识符有什么区别，有什么用，说个例子解释一下 这两个标识符都是 ICMP 报文中的标识符</description></item><item><title>Linux自启动方式</title><link>https://0linkun.github.io/post/Linux%E8%87%AA%E5%90%AF%E5%8A%A8%E6%96%B9%E5%BC%8F.html</link><pubDate>Fri, 26 May 2023 22:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/Linux%E8%87%AA%E5%90%AF%E5%8A%A8%E6%96%B9%E5%BC%8F.html</guid><description>在Linux中，有多种方式可以设置开机自启动。以下是几种常见的方式： 使用init.d或rc.d脚本：在/etc/init.d/或/etc/r</description></item><item><title>图解HTTP</title><link>https://0linkun.github.io/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AC%94%E8%AE%B0/</link><pubDate>Thu, 18 May 2023 22:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AC%94%E8%AE%B0/</guid><description>图解HTTP HTTP协议的职责（客户端） 生成针对目标web服务器的HTTP请求报文 TCP协议的职责（客户端） 为了方便通信，将HTTP请求报文</description></item><item><title>Vue项目学习</title><link>https://0linkun.github.io/post/Studyweb.html</link><pubDate>Mon, 01 May 2023 22:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/Studyweb.html</guid><description>Vue学习笔记 一、二维数组尝试 var vm = new Vue({ el: &amp;#34;#app&amp;#34;, data: { huilv:[ [6.8540, 132.9787, 1298.7013, 1.3278], [6.8540, 132.9787, 1298.7013, 1.3278] ],} 二、watch监听实现 watch: { first: function(newValue) { this.second = newValue * this.huilv[Number(this.firstbutton - 1)][Number(this.secondbutton -1)]; }, second: function(newValue) { this.first = newValue / this.huilv[Number(this.firstbutton - 1)][Number(this.secondbutton -1)];</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on LinKer's Blog</title><link>https://blog.000k.de/post/</link><description>Recent content in Posts on LinKer's Blog</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Sat, 10 May 2025 00:19:13 +0800</lastBuildDate><atom:link href="https://blog.000k.de/post/rss.xml" rel="self" type="application/rss+xml"/><item><title>使用hugo框架+github action创建个人博客</title><link>https://blog.000k.de/post/hugo+githubactionstudy.html</link><pubDate>Sat, 10 May 2025 00:19:13 +0800</pubDate><guid>https://blog.000k.de/post/hugo+githubactionstudy.html</guid><description>&lt;h2 id="使用hugo框架github-action创建个人博客">使用hugo框架+github action创建个人博客
+&lt;a class="header-anchor" href="#%e4%bd%bf%e7%94%a8hugo%e6%a1%86%e6%9e%b6github-action%e5%88%9b%e5%bb%ba%e4%b8%aa%e4%ba%ba%e5%8d%9a%e5%ae%a2">&lt;/a>
+&lt;/h2>&lt;p>本操作是使用静态页面后的进阶操作，主要是为了省去在本地进行hugo编译的步骤。理想的状态是，我只负责写文，和将好的md提交到git备份，然后就可以坐等网站内容更新了，官方提供的GitHub Action正可以满足这个需求。&lt;/p></description></item><item><title>基于P2P+组播的文件传输工具</title><link>https://blog.000k.de/post/P2PFile.html</link><pubDate>Wed, 26 Mar 2025 22:19:13 +0800</pubDate><guid>https://blog.000k.de/post/P2PFile.html</guid><description>&lt;h1 id="基于p2p组播的文件传输工具">基于P2P+组播的文件传输工具
+&lt;a class="header-anchor" href="#%e5%9f%ba%e4%ba%8ep2p%e7%bb%84%e6%92%ad%e7%9a%84%e6%96%87%e4%bb%b6%e4%bc%a0%e8%be%93%e5%b7%a5%e5%85%b7">&lt;/a>
+&lt;/h1>&lt;p>项目概述 本项目是一个基于局域网（或本地测试环境）的简易P2P文件传输程序，目前处于基本完成状态。环境java16&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>任意客户端可以进行局域网通信，聊天，传输文件到服务器&lt;/p></description></item><item><title>行测词语成语积累</title><link>https://blog.000k.de/post/%E8%A1%8C%E6%B5%8B%E8%AF%8D%E8%AF%AD%E6%88%90%E8%AF%AD%E7%A7%AF%E7%B4%AF.html</link><pubDate>Mon, 22 Apr 2024 00:19:13 +0800</pubDate><guid>https://blog.000k.de/post/%E8%A1%8C%E6%B5%8B%E8%AF%8D%E8%AF%AD%E6%88%90%E8%AF%AD%E7%A7%AF%E7%B4%AF.html</guid><description>&lt;h1 id="">
+&lt;a class="header-anchor" href="#">&lt;/a>
+&lt;/h1>&lt;ul>
+&lt;li>在备考中，我发现有相当多的高频成语出现在全国各地的行测真题中。相比于常识，成语的范围其实相当有限，常用的成语不过成百上千个，因此在平时可以用记忆的方式进行备考。江苏省考中，直接涉及成语的题目是&lt;strong>言语理解与表达中的选词填空&lt;/strong>、&lt;strong>判断推理中的类比推理&lt;/strong>，所占分值高达6、7分。同时，成语的使用对&lt;strong>申论大作文写作&lt;/strong>也有一定的帮助，可以让遣词造句更加简练、文雅。&lt;/li>
+&lt;li>我将收集到的成语（包含少量词语）进行适当分组，便于平日里的背诵记忆。&lt;/li>
+&lt;/ul>
+&lt;h3 id="组一">组一
+&lt;a class="header-anchor" href="#%e7%bb%84%e4%b8%80">&lt;/a>
+&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">词语/成语&lt;/th>
+ &lt;th style="text-align: center">释义&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">鸱目虎吻&lt;/td>
+ &lt;td style="text-align: center">人相貌阴险凶恶&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">车载斗量&lt;/td>
+ &lt;td style="text-align: center">数量很多、不足为奇&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">明眸皓齿&lt;/td>
+ &lt;td style="text-align: center">面容美丽&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">衣冠枭獍&lt;/td>
+ &lt;td style="text-align: center">行为恶劣、如同禽兽的人&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">穰穰满家&lt;/td>
+ &lt;td style="text-align: center">获得丰收，粮食满仓&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">勃然而兴&lt;/td>
+ &lt;td style="text-align: center">兴起或旺盛的样子&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">泥古不化&lt;/td>
+ &lt;td style="text-align: center">拘守古代的成规或古人的说法而不知变通&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">坐而论道&lt;/td>
+ &lt;td style="text-align: center">坐在那里高谈阔论空洞的道理&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">如芒在背&lt;/td>
+ &lt;td style="text-align: center">极度不安&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">曲突徙薪&lt;/td>
+ &lt;td style="text-align: center">事先采取措施，才能防止灾祸&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">闭门造车&lt;/td>
+ &lt;td style="text-align: center">自作主张、不合实际&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">剑走偏锋&lt;/td>
+ &lt;td style="text-align: center">不走常规，找一些新的、不同以往的办法来解决问题，以求出奇制胜&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">李代桃僵&lt;/td>
+ &lt;td style="text-align: center">以此代彼或代人受过&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">鞭打快牛&lt;/td>
+ &lt;td style="text-align: center">冲在最前面的也是最容易受伤的&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">狼多肉少&lt;/td>
+ &lt;td style="text-align: center">供不应求&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">根深叶茂&lt;/td>
+ &lt;td style="text-align: center">基础牢固，就会兴旺发展&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">盘根错节&lt;/td>
+ &lt;td style="text-align: center">事物的关系错综复杂，很难处理&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">珠辉玉丽&lt;/td>
+ &lt;td style="text-align: center">佳丽的肌肤之美，用于女性&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">明灭可见&lt;/td>
+ &lt;td style="text-align: center">忽明忽暗&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">如日中天&lt;/td>
+ &lt;td style="text-align: center">事物正发展到十分兴盛的阶段&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">巡游&lt;/td>
+ &lt;td style="text-align: center">外出游玩、游逛&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">洄游&lt;/td>
+ &lt;td style="text-align: center">鱼类因产卵、觅食或受季节变化影响，沿着一定路线有规律地往返迁移&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">巡回&lt;/td>
+ &lt;td style="text-align: center">按一定的路线或范围到处活动&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">逡巡&lt;/td>
+ &lt;td style="text-align: center">有所顾虑而徘徊或不敢前进&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">遽然、蓦然&lt;/td>
+ &lt;td style="text-align: center">突然、猛然&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="组二">组二
+&lt;a class="header-anchor" href="#%e7%bb%84%e4%ba%8c">&lt;/a>
+&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">词语/成语&lt;/th>
+ &lt;th style="text-align: center">释义&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">垂爱&lt;/td>
+ &lt;td style="text-align: center">上对下或别人对自己赏识爱护&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">疏放&lt;/td>
+ &lt;td style="text-align: center">任性而为、不检点；文章不受常格拘束&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">风流云散&lt;/td>
+ &lt;td style="text-align: center">向四处分散消失&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">风雨同舟&lt;/td>
+ &lt;td style="text-align: center">共同度过困难&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">通同一气&lt;/td>
+ &lt;td style="text-align: center">互相串通勾结在一起&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">鸠占鹊巢&lt;/td>
+ &lt;td style="text-align: center">强占别人的位置、居所或产业&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">更弦易辙&lt;/td>
+ &lt;td style="text-align: center">改变方法或态度&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">蔚然成风&lt;/td>
+ &lt;td style="text-align: center">一种事物逐渐发展、盛行，形成（好的）风气&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">一马当先&lt;/td>
+ &lt;td style="text-align: center">领先、带头&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">立竿见影&lt;/td>
+ &lt;td style="text-align: center">收效非常迅速&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">言不及义&lt;/td>
+ &lt;td style="text-align: center">说话不涉及正经道理&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">夜郎自大&lt;/td>
+ &lt;td style="text-align: center">妄自尊大，骄傲无知，肤浅自负&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">坐井观天&lt;/td>
+ &lt;td style="text-align: center">眼界狭小，所见有限&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">抱残守缺&lt;/td>
+ &lt;td style="text-align: center">思想保守，不肯接受新事物&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">因循守旧&lt;/td>
+ &lt;td style="text-align: center">照老样子不改，不求革新&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">言简意赅&lt;/td>
+ &lt;td style="text-align: center">说话或写文章言语简明而意思完备&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">拈轻怕重&lt;/td>
+ &lt;td style="text-align: center">工作上怕挑重担子&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">惺惺相惜&lt;/td>
+ &lt;td style="text-align: center">聪明才智相当的人彼此同情、怜惜&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">作壁上观&lt;/td>
+ &lt;td style="text-align: center">坐观成败，不给予帮助&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">刻舟求剑&lt;/td>
+ &lt;td style="text-align: center">办事刻板拘泥，不知根据实际情况处理问题&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">邯郸学步&lt;/td>
+ &lt;td style="text-align: center">模仿别人不到家，反倒把自己原有的长处也丢掉了&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">拾人牙慧&lt;/td>
+ &lt;td style="text-align: center">抄袭、套用别人的语言和文字，当作自己的话（贬义）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">殚精竭力&lt;/td>
+ &lt;td style="text-align: center">用尽精力，费尽心思（褒义）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">力不从心&lt;/td>
+ &lt;td style="text-align: center">心里想做而力量不够&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">改弦更张&lt;/td>
+ &lt;td style="text-align: center">改革制度或改变方针、计划和方法&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">侧目而视&lt;/td>
+ &lt;td style="text-align: center">畏惧又愤恨&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">置若罔闻&lt;/td>
+ &lt;td style="text-align: center">听见了不加理睬，不重视、不关心&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="组三">组三
+&lt;a class="header-anchor" href="#%e7%bb%84%e4%b8%89">&lt;/a>
+&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">词语/成语&lt;/th>
+ &lt;th style="text-align: center">释义&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">不以为然&lt;/td>
+ &lt;td style="text-align: center">不同意&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">昭然若揭&lt;/td>
+ &lt;td style="text-align: center">真相大白&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">毋庸讳言&lt;/td>
+ &lt;td style="text-align: center">用不着隐讳，可以直说的内容&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">望而却步&lt;/td>
+ &lt;td style="text-align: center">看到了可怕的或力不能及的事而往后退缩&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">裹足不前&lt;/td>
+ &lt;td style="text-align: center">心存顾虑而不向前走&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">妄自菲薄&lt;/td>
+ &lt;td style="text-align: center">过分地看轻自己&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">共襄盛举&lt;/td>
+ &lt;td style="text-align: center">共同赞助，合力完成&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">凝心聚力&lt;/td>
+ &lt;td style="text-align: center">将大家的思路、力量和想法凝聚在一起，共同为某一件事情而努力和奋斗&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">守望相助&lt;/td>
+ &lt;td style="text-align: center">为对付敌人或意外灾祸互相援助、共同防御&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">同舟共济&lt;/td>
+ &lt;td style="text-align: center">在困难时同心协力渡过难关&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">风起云涌&lt;/td>
+ &lt;td style="text-align: center">许多事物相继兴起，声势浩大&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">如火如荼&lt;/td>
+ &lt;td style="text-align: center">旺盛、热烈或激烈&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">应运而生&lt;/td>
+ &lt;td style="text-align: center">人或事物适应时机、潮流而出现&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">退避三舍&lt;/td>
+ &lt;td style="text-align: center">退让和回避，避免冲突&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">自惭形秽&lt;/td>
+ &lt;td style="text-align: center">因为自己不如别人而感到惭愧&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">望洋兴叹&lt;/td>
+ &lt;td style="text-align: center">做事力量不够或条件缺乏而感到无可奈何&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">如履平地&lt;/td>
+ &lt;td style="text-align: center">很轻松，没有阻碍，易于办到&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">如履薄冰&lt;/td>
+ &lt;td style="text-align: center">随时都会发生危险，做事极为小心谨慎&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">如箭在弦&lt;/td>
+ &lt;td style="text-align: center">势在必行；或者事情已经到了不得不做或话已经到了不得不说的时候&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">刚愎自用&lt;/td>
+ &lt;td style="text-align: center">倔强固执，自以为是，不接受别人的意见&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">泾渭分明&lt;/td>
+ &lt;td style="text-align: center">两件事截然不同。多指是非或好坏的分别很清楚&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">孜孜矻矻&lt;/td>
+ &lt;td style="text-align: center">勤勉不懈怠的样子&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">皓首穷经&lt;/td>
+ &lt;td style="text-align: center">勤勉好学，活到老学到老&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">一枝独秀&lt;/td>
+ &lt;td style="text-align: center">最为杰出&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">各有千秋&lt;/td>
+ &lt;td style="text-align: center">各有各的道理；各有所长；各有特色&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">势均力敌&lt;/td>
+ &lt;td style="text-align: center">对抗竞争中，双方势力相当，分不出高低&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">因噎废食&lt;/td>
+ &lt;td style="text-align: center">因为怕出问题，索性不干&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="组四">组四
+&lt;a class="header-anchor" href="#%e7%bb%84%e5%9b%9b">&lt;/a>
+&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">词语/成语&lt;/th>
+ &lt;th style="text-align: center">释义&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">削足适履&lt;/td>
+ &lt;td style="text-align: center">不合理地迁就现有条件，或不顾具体条件地生搬硬套&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">昙花一现&lt;/td>
+ &lt;td style="text-align: center">事物像昙花那样一出现很快就消失&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">事无巨细&lt;/td>
+ &lt;td style="text-align: center">事情不分大小，什么事都管&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">汗牛充栋&lt;/td>
+ &lt;td style="text-align: center">藏书极多&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">十全十美&lt;/td>
+ &lt;td style="text-align: center">十分完美，没有缺陷&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">此起彼伏&lt;/td>
+ &lt;td style="text-align: center">频繁地出现或产生&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">层出不穷&lt;/td>
+ &lt;td style="text-align: center">连续不断地出现&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">字斟句酌&lt;/td>
+ &lt;td style="text-align: center">写作或说话的态度慎重&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">不绝如缕&lt;/td>
+ &lt;td style="text-align: center">情势危急；声音、思绪等悠长不绝&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">捉襟见肘&lt;/td>
+ &lt;td style="text-align: center">衣服破烂；困难重重，顾此失彼，应付不过来&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">不遑多让&lt;/td>
+ &lt;td style="text-align: center">来不及谦让&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">美轮美奂&lt;/td>
+ &lt;td style="text-align: center">房屋等建筑高大众多，富丽堂皇&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">如出一辙&lt;/td>
+ &lt;td style="text-align: center">言论或行动完全一样&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">兴味索然&lt;/td>
+ &lt;td style="text-align: center">一点兴趣也没有&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">明哲保身&lt;/td>
+ &lt;td style="text-align: center">因怕犯错误或有损自己利益而对原则性问题不置可否的处世态度&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">独善其身&lt;/td>
+ &lt;td style="text-align: center">只顾自己好，而不管别人的个人处世哲学&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">同向而行&lt;/td>
+ &lt;td style="text-align: center">目标一致&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">后发先至&lt;/td>
+ &lt;td style="text-align: center">比对手晚出手但是先碰到对方，一出手对方必然倒地&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">首鼠两端&lt;/td>
+ &lt;td style="text-align: center">迟疑不决或动摇不定&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">薪火相传&lt;/td>
+ &lt;td style="text-align: center">学问和技艺代代相传；师生授受不绝；种族、血统、文化精神的传承，绵延不尽&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">一脉相承&lt;/td>
+ &lt;td style="text-align: center">某种思想、行为或学说之间有继承关系&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">望而生畏&lt;/td>
+ &lt;td style="text-align: center">看见了就害怕&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">敬而远之&lt;/td>
+ &lt;td style="text-align: center">表示尊敬，但又不愿意接近&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">先入为主&lt;/td>
+ &lt;td style="text-align: center">先听进去的话或先获得的印象可能在头脑中占有主导地位，以后再遇到不同的意见时，或可不容易接受&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">蜂拥而至&lt;/td>
+ &lt;td style="text-align: center">许多人乱哄哄地同时来到（中性词）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">近水楼台&lt;/td>
+ &lt;td style="text-align: center">因接近某人或某事物而处于首先获得好处的优越地位&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">相得益彰&lt;/td>
+ &lt;td style="text-align: center">相互帮助、互相补充，更能显出好处&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="组五">组五
+&lt;a class="header-anchor" href="#%e7%bb%84%e4%ba%94">&lt;/a>
+&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">词语/成语&lt;/th>
+ &lt;th style="text-align: center">释义&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">摩拳擦掌&lt;/td>
+ &lt;td style="text-align: center">战斗或行动前情绪高昂、跃跃欲试的样子&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">说一不二&lt;/td>
+ &lt;td style="text-align: center">说话算数，说到做到。也指说什么就是什么，没人敢违背&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">一言九鼎&lt;/td>
+ &lt;td style="text-align: center">言辞极有分量，作用大&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">润物无声&lt;/td>
+ &lt;td style="text-align: center">有大胸怀者，做了贡献而不张扬，默默奉献&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">一呼百应&lt;/td>
+ &lt;td style="text-align: center">响应的人很多，有号召力（中性词）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">不令而行&lt;/td>
+ &lt;td style="text-align: center">不须命令而在下者自会正直（褒义词）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">春风化雨&lt;/td>
+ &lt;td style="text-align: center">良好的教育&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">画饼充饥&lt;/td>
+ &lt;td style="text-align: center">以空想来自我安慰&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">空中楼阁&lt;/td>
+ &lt;td style="text-align: center">脱离现实的理论、不切实际的计划或虚幻的事物&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">水中捞月&lt;/td>
+ &lt;td style="text-align: center">去做根本做不到的事情，只能徒劳无功（贬义词）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">奇谈怪论&lt;/td>
+ &lt;td style="text-align: center">稀奇古怪的、不合情理的言论&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">风靡一时&lt;/td>
+ &lt;td style="text-align: center">某事物在一个时期里非常盛行（中性词）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">旁若无人&lt;/td>
+ &lt;td style="text-align: center">态度傲慢，不把别人放在眼里；态度自然、镇静自如的样子；很投入，没有感到他人的存在&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">素不相识&lt;/td>
+ &lt;td style="text-align: center">向来不认识、不熟悉&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">熟视无睹&lt;/td>
+ &lt;td style="text-align: center">对事物漠不关心&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">势在必行&lt;/td>
+ &lt;td style="text-align: center">事情迫于情势，非做不可&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">过河拆桥&lt;/td>
+ &lt;td style="text-align: center">达到目的后，就把曾经帮助自己的人一脚踢开&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">落井下石&lt;/td>
+ &lt;td style="text-align: center">乘人危难之际加以打击陷害&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">釜底抽薪&lt;/td>
+ &lt;td style="text-align: center">从根本上解决问题&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">立足之地&lt;/td>
+ &lt;td style="text-align: center">容身的地方&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">一席之地&lt;/td>
+ &lt;td style="text-align: center">很小的一块地方；一个位置&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">立锥之地&lt;/td>
+ &lt;td style="text-align: center">能容身的极小的地方&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">漠然置之&lt;/td>
+ &lt;td style="text-align: center">对人对事物不重视关心，放在一边不予理睬&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">嗤之以鼻&lt;/td>
+ &lt;td style="text-align: center">轻蔑，看不起&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">门可罗雀&lt;/td>
+ &lt;td style="text-align: center">门庭冷落，宾客稀少&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">万人空巷&lt;/td>
+ &lt;td style="text-align: center">庆祝、欢迎等的盛况&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">微不足道&lt;/td>
+ &lt;td style="text-align: center">非常藐小，不值得一提&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="组六">组六
+&lt;a class="header-anchor" href="#%e7%bb%84%e5%85%ad">&lt;/a>
+&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">词语/成语&lt;/th>
+ &lt;th style="text-align: center">释义&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">尾大不掉&lt;/td>
+ &lt;td style="text-align: center">部下势力太大，不易指挥调度；因事物轻重关系倒置，形成难以驾驭的局面&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">闭耳塞听&lt;/td>
+ &lt;td style="text-align: center">对外界事物不闻不问，与世隔绝；不听别人的建议与劝告，一意孤行（贬义词）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">积重难返&lt;/td>
+ &lt;td style="text-align: center">长期形成的不良的风俗、习惯不易改变；长期积累的问题不易解决&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">若即若离&lt;/td>
+ &lt;td style="text-align: center">对人的态度似亲似疏，保持一定的分寸和距离；含混不清；忽远忽近&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">覆水难收&lt;/td>
+ &lt;td style="text-align: center">已成定局，无法挽回&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">南辕北辙&lt;/td>
+ &lt;td style="text-align: center">行动和目的相反&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">失之交臂&lt;/td>
+ &lt;td style="text-align: center">当面错过或失去好机会&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">背道而驰&lt;/td>
+ &lt;td style="text-align: center">行动跟既定的方向完全相反&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">指手画脚&lt;/td>
+ &lt;td style="text-align: center">说话时兼用手势示意；轻率地指点、批评&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">颐指气使&lt;/td>
+ &lt;td style="text-align: center">有权势者指挥别人的傲慢神气&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">夸夸其谈&lt;/td>
+ &lt;td style="text-align: center">说话或写文章时不作调查研究，滔滔不绝，漫无边际地乱说一些不切实际的话&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">徒托空言&lt;/td>
+ &lt;td style="text-align: center">只说空话，不办实事&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">隔三差五&lt;/td>
+ &lt;td style="text-align: center">每隔不久&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">海晏河清&lt;/td>
+ &lt;td style="text-align: center">天下太平&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">渊渟岳峙&lt;/td>
+ &lt;td style="text-align: center">人品德高尚，如渊水深沉，如高山耸立&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">钟灵毓秀&lt;/td>
+ &lt;td style="text-align: center">凝聚了天地间的灵气，孕育着优秀的人物&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">瑕瑜互见&lt;/td>
+ &lt;td style="text-align: center">既有缺点也有优点&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">一本万利&lt;/td>
+ &lt;td style="text-align: center">用很少本钱而获得很大利润&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">一劳永逸&lt;/td>
+ &lt;td style="text-align: center">辛苦一次，把事情办好，以后就不再费事了&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">一鸣惊人&lt;/td>
+ &lt;td style="text-align: center">平时不被人注意的人，突然做出惊人的成绩&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">外强中干&lt;/td>
+ &lt;td style="text-align: center">表面强大，实质虚弱&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">乍暖还寒&lt;/td>
+ &lt;td style="text-align: center">气候冷热不定，忽冷忽热&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">踟蹰不前&lt;/td>
+ &lt;td style="text-align: center">拿不定主意，不敢前进&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">积厚流光&lt;/td>
+ &lt;td style="text-align: center">积累的功业越深厚，则流传给后人的恩德越广&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">兼收并蓄&lt;/td>
+ &lt;td style="text-align: center">把不同内容、不同性质的东西收下来，保存起来&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">如鱼得水&lt;/td>
+ &lt;td style="text-align: center">得到跟自己非常投合的人或对自己很适合的环境&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">异军突起&lt;/td>
+ &lt;td style="text-align: center">与众不同的新派别或新力量一下子崛起（褒义词）&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="组七">组七
+&lt;a class="header-anchor" href="#%e7%bb%84%e4%b8%83">&lt;/a>
+&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">词语/成语&lt;/th>
+ &lt;th style="text-align: center">释义&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">纵横捭阖&lt;/td>
+ &lt;td style="text-align: center">在政治、外交上运用手段进行联合或分化&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">金戈铁马&lt;/td>
+ &lt;td style="text-align: center">战争；战士持枪驰马的雄姿&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">经天纬地&lt;/td>
+ &lt;td style="text-align: center">人的才能很大&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">秣马厉兵&lt;/td>
+ &lt;td style="text-align: center">准备作战或比赛&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">汪洋恣肆&lt;/td>
+ &lt;td style="text-align: center">文章、人物气度或气势宏大磅礴（褒义词）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">戎马倥偬&lt;/td>
+ &lt;td style="text-align: center">军务繁忙紧迫&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">万马奔腾&lt;/td>
+ &lt;td style="text-align: center">声势浩大、场面热烈；事业像万马一样快速发展&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">甚嚣尘上&lt;/td>
+ &lt;td style="text-align: center">某种错误或反动言论十分嚣张&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">沸反盈天&lt;/td>
+ &lt;td style="text-align: center">喧哗吵闹，乱作一团&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">快马加鞭&lt;/td>
+ &lt;td style="text-align: center">快上加快，加速前进&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">无孔不入&lt;/td>
+ &lt;td style="text-align: center">利用一切漏洞或机会（多指做坏事）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">一日千里&lt;/td>
+ &lt;td style="text-align: center">进展极快&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">沽名钓誉&lt;/td>
+ &lt;td style="text-align: center">有意做作或用某种欺骗的手段来谋取名誉&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">尽善尽美&lt;/td>
+ &lt;td style="text-align: center">完美无缺&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">千金难买&lt;/td>
+ &lt;td style="text-align: center">某物十分珍贵&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">难能可贵&lt;/td>
+ &lt;td style="text-align: center">本来难做到的事居然做到了，因而非常可贵&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">自命清高&lt;/td>
+ &lt;td style="text-align: center">自以为清白高洁，看不起别人（贬义词）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">矫枉过正&lt;/td>
+ &lt;td style="text-align: center">纠正错误或偏差超过了应有的限度&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">难以为继&lt;/td>
+ &lt;td style="text-align: center">无法再继续下去&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">义不容辞&lt;/td>
+ &lt;td style="text-align: center">道义上不容许推辞&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">凤毛麟角&lt;/td>
+ &lt;td style="text-align: center">难得而宝贵的人或事物&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">责无旁贷&lt;/td>
+ &lt;td style="text-align: center">自己应尽的责任，不能推卸给旁人&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">舌灿莲花&lt;/td>
+ &lt;td style="text-align: center">人口才好（褒义词）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">闻一知十&lt;/td>
+ &lt;td style="text-align: center">理解力强，善于类推&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">旁征博引&lt;/td>
+ &lt;td style="text-align: center">说话或写文章时广泛、大量地引用材料作为依据或例证&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">相形见绌&lt;/td>
+ &lt;td style="text-align: center">相比之下显得远远不如&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">张弛有道&lt;/td>
+ &lt;td style="text-align: center">工作的紧松和生活的劳逸要适当调节，有节奏地进行；治国要宽严相济&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="组八">组八
+&lt;a class="header-anchor" href="#%e7%bb%84%e5%85%ab">&lt;/a>
+&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">词语/成语&lt;/th>
+ &lt;th style="text-align: center">释义&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">水滴石穿&lt;/td>
+ &lt;td style="text-align: center">虽然力量比较小，但只要目标专一、持之以恒、坚持不懈，就一定能把艰难的事情办成&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">顺势而为&lt;/td>
+ &lt;td style="text-align: center">做事要顺应潮流，不要逆势而行&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">因势利导&lt;/td>
+ &lt;td style="text-align: center">顺着事情发展的趋势向有利的方向引导&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">泽被后世&lt;/td>
+ &lt;td style="text-align: center">恩惠遍及到后代的人民&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">推心置腹&lt;/td>
+ &lt;td style="text-align: center">以至诚待人（褒义词）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">开诚布公&lt;/td>
+ &lt;td style="text-align: center">诚意待人，坦白无私&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">春秋笔法&lt;/td>
+ &lt;td style="text-align: center">寓褒贬于曲折的文笔之中&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">弹冠相庆&lt;/td>
+ &lt;td style="text-align: center">即将作官而互相庆贺；坏人得意的样子&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">额手称庆&lt;/td>
+ &lt;td style="text-align: center">感到庆幸；令人称快的事情&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">微言大义&lt;/td>
+ &lt;td style="text-align: center">包含在精微语言里的深刻的道理&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">击节赞叹&lt;/td>
+ &lt;td style="text-align: center">对别人的诗文或艺术等的赞赏&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">低头折节&lt;/td>
+ &lt;td style="text-align: center">丧失气节，屈服于他人&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">浑然天成&lt;/td>
+ &lt;td style="text-align: center">诗文结构严密自然，用词运典毫无斧凿痕迹；人的才德完美自然&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">一以贯之&lt;/td>
+ &lt;td style="text-align: center">做人做事，按照一个道理，从始至终都不会改变&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">一脉贯通&lt;/td>
+ &lt;td style="text-align: center">事物之间相互关联，犹如一条脉络贯穿下来可以互通&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">靡然成风&lt;/td>
+ &lt;td style="text-align: center">相互跟风，群起效尤而成（不好的）风气（贬义词）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">层见叠出&lt;/td>
+ &lt;td style="text-align: center">接连不断出现，事物很多&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">沸沸扬扬&lt;/td>
+ &lt;td style="text-align: center">人生喧扰，议论纷纷&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">精雕细刻&lt;/td>
+ &lt;td style="text-align: center">创作艺术品时的苦心刻画；认真细致地加工&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">匠心独运&lt;/td>
+ &lt;td style="text-align: center">独创性地运用精巧的心思&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">博采众长&lt;/td>
+ &lt;td style="text-align: center">广泛采纳众人的长处及各方面的优点，或从多方面吸取各家的长处&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">暴殄天物&lt;/td>
+ &lt;td style="text-align: center">任意糟蹋东西，不知爱惜&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">诘屈聱牙&lt;/td>
+ &lt;td style="text-align: center">文字晦涩艰深，难懂难度&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">言过其实&lt;/td>
+ &lt;td style="text-align: center">言语浮夸，超过实际才能；说话过分，不符合事实&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">一板一眼&lt;/td>
+ &lt;td style="text-align: center">言语、行动有条理或合规矩；做事死板，不懂得灵活掌握&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">日薄西山&lt;/td>
+ &lt;td style="text-align: center">人已经衰老或事物衰败腐朽，临近死亡&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">自命不凡&lt;/td>
+ &lt;td style="text-align: center">自以为很了不起，自以为比别人高明&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="组九">组九
+&lt;a class="header-anchor" href="#%e7%bb%84%e4%b9%9d">&lt;/a>
+&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">词语/成语&lt;/th>
+ &lt;th style="text-align: center">释义&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">附庸风雅&lt;/td>
+ &lt;td style="text-align: center">缺乏文化修养的人，装腔作势的从事有关文化的活动&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">一了百当&lt;/td>
+ &lt;td style="text-align: center">办事妥当、彻底&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">左支右绌&lt;/td>
+ &lt;td style="text-align: center">力量不足，应付了这方面，那方面又出了问题&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">坐收渔利&lt;/td>
+ &lt;td style="text-align: center">利用别人的矛盾而从中获利&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">守株待兔&lt;/td>
+ &lt;td style="text-align: center">死守经验，不知变通；讽刺妄想不劳而获的侥幸心理&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">以一奉百&lt;/td>
+ &lt;td style="text-align: center">劳动生产的人少，而享受、消费的人却很多&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">循规拘礼&lt;/td>
+ &lt;td style="text-align: center">遵循规则，拘泥礼节&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">掩耳盗铃&lt;/td>
+ &lt;td style="text-align: center">自己欺骗自己，明明是掩盖不住的事情偏要想法子掩盖&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">饮鸠止渴&lt;/td>
+ &lt;td style="text-align: center">用错误的办法来解决眼前的困难而不顾严重后果&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">作茧自缚&lt;/td>
+ &lt;td style="text-align: center">弄巧成拙，自作自受&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">买椟还珠&lt;/td>
+ &lt;td style="text-align: center">舍本逐末，取舍失当&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">筚门圭窦&lt;/td>
+ &lt;td style="text-align: center">住室极其简陋，旧指穷人住处&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">兰艾同焚&lt;/td>
+ &lt;td style="text-align: center">不分好坏，一同消灭&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">钟鸣鼎食&lt;/td>
+ &lt;td style="text-align: center">贵族的豪华排场；生活奢侈豪华&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">桑枢瓮牖&lt;/td>
+ &lt;td style="text-align: center">贫苦之家&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">方兴未艾&lt;/td>
+ &lt;td style="text-align: center">事物正处于兴旺阶段或形容正在蓬勃发展&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">饱经沧桑&lt;/td>
+ &lt;td style="text-align: center">经历过很多世事变迁&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">和颜悦色&lt;/td>
+ &lt;td style="text-align: center">态度温和亲切&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">扬汤止沸&lt;/td>
+ &lt;td style="text-align: center">办法不彻底，不能从根本上解决问题&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">和风细雨&lt;/td>
+ &lt;td style="text-align: center">做事温和、细致，不粗暴或方式和缓&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">隔靴搔痒&lt;/td>
+ &lt;td style="text-align: center">不贴切，没有抓住关键，诗不着题&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">洋洋盈耳&lt;/td>
+ &lt;td style="text-align: center">讲话、读书的声音悦耳动听（褒义词）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">有的放矢&lt;/td>
+ &lt;td style="text-align: center">说话做事有针对性&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">水涨船高&lt;/td>
+ &lt;td style="text-align: center">事物随其凭借基础的提高而提高&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">无足轻重&lt;/td>
+ &lt;td style="text-align: center">无关紧要&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">苦口婆心&lt;/td>
+ &lt;td style="text-align: center">善意而又耐心地劝导&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">朝督暮责&lt;/td>
+ &lt;td style="text-align: center">督促检查非常严格&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="组十">组十
+&lt;a class="header-anchor" href="#%e7%bb%84%e5%8d%81">&lt;/a>
+&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">词语/成语&lt;/th>
+ &lt;th style="text-align: center">释义&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">循循善诱&lt;/td>
+ &lt;td style="text-align: center">善于有步骤地引导别人进行学习&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">耳提面命&lt;/td>
+ &lt;td style="text-align: center">恳切地教导&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">粗枝大叶&lt;/td>
+ &lt;td style="text-align: center">做事不认真、不细致，马虎大意&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">走马观花&lt;/td>
+ &lt;td style="text-align: center">粗略地观察事物或了解情况&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">轻描淡写&lt;/td>
+ &lt;td style="text-align: center">说话写文章把重要问题轻轻带过，不加重视；做事不费力&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">按图索骥&lt;/td>
+ &lt;td style="text-align: center">按线索寻找；办事机械、死板&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">敛声屏气&lt;/td>
+ &lt;td style="text-align: center">畏惧、小心的样子&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">蜻蜓点水&lt;/td>
+ &lt;td style="text-align: center">做事肤浅不深入&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">蔚为大观&lt;/td>
+ &lt;td style="text-align: center">事物美好而繁多，给人一种盛大的印象，多指文物、盛大的景象等&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">纤毫毕现&lt;/td>
+ &lt;td style="text-align: center">极细微的东西都显现了出来&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">日暮途穷&lt;/td>
+ &lt;td style="text-align: center">处境十分困难，到了末日；穷困到极点&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">革故鼎新&lt;/td>
+ &lt;td style="text-align: center">除去旧的，建立新的&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">如数家珍&lt;/td>
+ &lt;td style="text-align: center">某人对所讲的事情十分熟悉&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">各行其是&lt;/td>
+ &lt;td style="text-align: center">思想不统一，各人按照自己的意见、主张去做&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">各自为阵&lt;/td>
+ &lt;td style="text-align: center">各自按自己的主张办事，不互相配合；不考虑全局，各搞一套&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">东施效颦&lt;/td>
+ &lt;td style="text-align: center">模仿别人，不但模仿不好，反而出丑；有时也作自谦之词，表示自己根底差，学别人的长处没有学到家&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">举足轻重&lt;/td>
+ &lt;td style="text-align: center">能起到影响全局的关键作用&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">振聋发聩&lt;/td>
+ &lt;td style="text-align: center">用语言文字唤醒糊涂麻木的人，使他们清醒过来&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">醍醐灌顶&lt;/td>
+ &lt;td style="text-align: center">灌输智慧，使人得到启发，彻底醒悟；听了高明的意见使人受到很大启发；清凉舒适&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">一衣带水&lt;/td>
+ &lt;td style="text-align: center">地域相近&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">一掷千金&lt;/td>
+ &lt;td style="text-align: center">用钱满不在乎，一花就是一大笔&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">移花接木&lt;/td>
+ &lt;td style="text-align: center">暗中用手段更换人或事物来欺骗别人&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">喧宾夺主&lt;/td>
+ &lt;td style="text-align: center">外来的或次要的事物占据了原有的或主要的事物的位置&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">炉火纯青&lt;/td>
+ &lt;td style="text-align: center">功夫达到了纯熟完美的境界&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">入室升堂&lt;/td>
+ &lt;td style="text-align: center">学习所达到的境地有程度深浅的差别，多用以赞扬人在学问或技能方面有高深的造诣&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">不可名状&lt;/td>
+ &lt;td style="text-align: center">不可用言语来形容&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">无以复加&lt;/td>
+ &lt;td style="text-align: center">某事在程度上达到了极点&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="组十一">组十一
+&lt;a class="header-anchor" href="#%e7%bb%84%e5%8d%81%e4%b8%80">&lt;/a>
+&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">词语/成语&lt;/th>
+ &lt;th style="text-align: center">释义&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">鳞次栉比&lt;/td>
+ &lt;td style="text-align: center">房屋或船只等排列得很密很整齐&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">风雨兼程&lt;/td>
+ &lt;td style="text-align: center">预先约好的事情，一定按期进行，不避困难勇往直前&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">大海捞针&lt;/td>
+ &lt;td style="text-align: center">事情很难办成。含有白费力气之意&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">拨云见日&lt;/td>
+ &lt;td style="text-align: center">冲破黑暗见到光明；疑团消除，心里顿时明白&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">激浊扬清&lt;/td>
+ &lt;td style="text-align: center">清除坏的，发扬好的&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">沉渣泛起&lt;/td>
+ &lt;td style="text-align: center">一度消亡了的腐朽事物又重新露头&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">振臂高呼&lt;/td>
+ &lt;td style="text-align: center">挥臂高声呐喊，以振奋人心，号召群众&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">沧海一粟&lt;/td>
+ &lt;td style="text-align: center">非常渺小，微不足道&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">杯水风波&lt;/td>
+ &lt;td style="text-align: center">小题大做&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">瓜田李下&lt;/td>
+ &lt;td style="text-align: center">容易引起嫌疑的场所或情况&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">一叶知秋&lt;/td>
+ &lt;td style="text-align: center">通过个别的细微的迹象，可以看到整个形势的发展趋向与结果&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">迎刃而解&lt;/td>
+ &lt;td style="text-align: center">处理事情，解决问题非常顺利&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">粉墨登场&lt;/td>
+ &lt;td style="text-align: center">坏人经过一番打扮，登上政治舞台&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">横空出世&lt;/td>
+ &lt;td style="text-align: center">人或物高大，有很伟大的成就；卓尔不群，十分优秀&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">破土而出&lt;/td>
+ &lt;td style="text-align: center">植物顶出泥土而发芽生长；事物冲破压力而成长起来&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">不分轩轾&lt;/td>
+ &lt;td style="text-align: center">对待二者的态度或看法差不多&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">等量齐观&lt;/td>
+ &lt;td style="text-align: center">对有差别的事物同等看待&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">斗转星移&lt;/td>
+ &lt;td style="text-align: center">季节或实际的变化&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">日异月殊&lt;/td>
+ &lt;td style="text-align: center">每天每月都有差异，变化大&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">反客为主&lt;/td>
+ &lt;td style="text-align: center">变被动的为主动的或变次要的为主要的&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">以一持万&lt;/td>
+ &lt;td style="text-align: center">抓住关键，可以控制全局&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">太阿倒持&lt;/td>
+ &lt;td style="text-align: center">以把柄授予人，自身反而面临危险或灾害&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">谈虎色变&lt;/td>
+ &lt;td style="text-align: center">一提及某事就非常害怕&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">奉为圭臬&lt;/td>
+ &lt;td style="text-align: center">把某些言论或事当成自己的准则&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">画地为牢&lt;/td>
+ &lt;td style="text-align: center">只许在指定的范围内活动&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">唯命是从&lt;/td>
+ &lt;td style="text-align: center">是命令就服从，不敢有半点违抗&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">物极必反&lt;/td>
+ &lt;td style="text-align: center">事物发展到极点，会向相反方向转化&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="组十二">组十二
+&lt;a class="header-anchor" href="#%e7%bb%84%e5%8d%81%e4%ba%8c">&lt;/a>
+&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">词语/成语&lt;/th>
+ &lt;th style="text-align: center">释义&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">贻笑大方&lt;/td>
+ &lt;td style="text-align: center">被识见广博或精通此道的内行人所讥笑&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">秉笔直书&lt;/td>
+ &lt;td style="text-align: center">写文章不隐瞒、不夸大，真实地反映情况&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">矢志不渝&lt;/td>
+ &lt;td style="text-align: center">立志不会改变，永远不变心&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">狗尾续貂&lt;/td>
+ &lt;td style="text-align: center">用次品续在珍品之后，多用于形容续写的文学作品不如原来的好&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">天经地义&lt;/td>
+ &lt;td style="text-align: center">非常正确不容置疑的道理&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">判若云泥&lt;/td>
+ &lt;td style="text-align: center">差距极大,差别悬殊就像云和泥的距离那样&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">相去甚远&lt;/td>
+ &lt;td style="text-align: center">互相之间存在很大差异和距离&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">生存之虞&lt;/td>
+ &lt;td style="text-align: center">威胁生命或重要生产活动的祸患&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">休戚与共&lt;/td>
+ &lt;td style="text-align: center">关系密切，利害相同&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">络绎不绝&lt;/td>
+ &lt;td style="text-align: center">行人、车马、船只等来往频繁，连续不断&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">人心所向&lt;/td>
+ &lt;td style="text-align: center">人民群众所拥护的，向往的&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">大势所趋&lt;/td>
+ &lt;td style="text-align: center">整个局势发展演变的必然趋势&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">点石成金&lt;/td>
+ &lt;td style="text-align: center">把不好的或平凡的事物改变成很好的事物；修改文章时稍稍改动原来的文字，就使它变得很出色&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">一时之选&lt;/td>
+ &lt;td style="text-align: center">某一时期的优秀人才&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">脱胎换骨&lt;/td>
+ &lt;td style="text-align: center">痛改前非，重新做人&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">改头换面&lt;/td>
+ &lt;td style="text-align: center">只改外表和形式，内容实质不变&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">大醇小疵&lt;/td>
+ &lt;td style="text-align: center">大体纯正，略有欠缺&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">独占鳌头&lt;/td>
+ &lt;td style="text-align: center">占首位或者第一名&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">望穿秋水&lt;/td>
+ &lt;td style="text-align: center">盼望急切（秋水，比喻眼睛）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">望眼欲穿&lt;/td>
+ &lt;td style="text-align: center">盼望殷切&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">过犹不及&lt;/td>
+ &lt;td style="text-align: center">做事要适得其中&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">宠辱不惊&lt;/td>
+ &lt;td style="text-align: center">把荣辱得失置之度外&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">如坐春风&lt;/td>
+ &lt;td style="text-align: center">同品德高尚且有学识的人相处并受到熏陶&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">反观内视&lt;/td>
+ &lt;td style="text-align: center">自我反省&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">条分缕析&lt;/td>
+ &lt;td style="text-align: center">有条有理地细细分析&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">具体而微&lt;/td>
+ &lt;td style="text-align: center">内容大体具备，但布局、规模较小些&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">互剥痛疮&lt;/td>
+ &lt;td style="text-align: center">互揭阴私&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="组十三">组十三
+&lt;a class="header-anchor" href="#%e7%bb%84%e5%8d%81%e4%b8%89">&lt;/a>
+&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: center">词语/成语&lt;/th>
+ &lt;th style="text-align: center">释义&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: center">习以为常&lt;/td>
+ &lt;td style="text-align: center">常做某事,逐渐成了习惯&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">司空见惯&lt;/td>
+ &lt;td style="text-align: center">某事常见，不足为奇&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">别出心裁&lt;/td>
+ &lt;td style="text-align: center">诗文、美术、建筑等的构思设想独具一格，与众不同&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">亦庄亦谐&lt;/td>
+ &lt;td style="text-align: center">既严肃又风趣&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">弱不禁风&lt;/td>
+ &lt;td style="text-align: center">人身体娇弱，连风吹都经受不起&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">伯仲之间&lt;/td>
+ &lt;td style="text-align: center">不相上下&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">海纳百川&lt;/td>
+ &lt;td style="text-align: center">包容的东西非常广泛，而且数量很大&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">兼容并蓄&lt;/td>
+ &lt;td style="text-align: center">把不同内容、不同性质的东西收下来，保存起来，同“兼收并蓄”&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">独树一帜&lt;/td>
+ &lt;td style="text-align: center">与众不同，自成一家&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">分庭抗礼&lt;/td>
+ &lt;td style="text-align: center">彼此地位或势力相等，平起平坐或互相对立&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">和衷共济&lt;/td>
+ &lt;td style="text-align: center">同心协力，克服困难&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">星星点点&lt;/td>
+ &lt;td style="text-align: center">多而分散；少许或细碎&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">周而复始&lt;/td>
+ &lt;td style="text-align: center">不断循环&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">弹丸之地&lt;/td>
+ &lt;td style="text-align: center">地方狭小&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">咂舌攒眉&lt;/td>
+ &lt;td style="text-align: center">人吃酸物的表情或惊讶的神情&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">别无二致&lt;/td>
+ &lt;td style="text-align: center">区分不出两者的差别&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">引人入胜&lt;/td>
+ &lt;td style="text-align: center">十分吸引人的，使人沉醉的优美的境界。多指山水风景或文艺作品吸引人&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">全民皆兵&lt;/td>
+ &lt;td style="text-align: center">把能参加战斗的人民全都武装起来，随时准备歼灭入侵之敌&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">绘声绘色&lt;/td>
+ &lt;td style="text-align: center">描写或叙述一段事情很逼真&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">穿针引线&lt;/td>
+ &lt;td style="text-align: center">从中联系、拉拢；使双方接通关系&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">新陈代谢&lt;/td>
+ &lt;td style="text-align: center">新事物不断产生发展，代替旧的事物&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">包罗万象&lt;/td>
+ &lt;td style="text-align: center">内容丰富，无所不有&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">死而不僵&lt;/td>
+ &lt;td style="text-align: center">坏势力等不容易被清除&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">恰如其分&lt;/td>
+ &lt;td style="text-align: center">说话办事不过分；办事或说话十分恰当合适&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">琳琅满目&lt;/td>
+ &lt;td style="text-align: center">各种美好的东西很多（多指书籍或工艺品）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">纷繁芜杂&lt;/td>
+ &lt;td style="text-align: center">文章内容芜杂，没有条理，或者是事情杂乱无章，没有头绪&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">林林总总&lt;/td>
+ &lt;td style="text-align: center">人或事物众多&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">推陈出新&lt;/td>
+ &lt;td style="text-align: center">去掉旧事物的糟粕，取其精华，并使它向新的方向发展（多指继承文化遗产）&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">历久弥新&lt;/td>
+ &lt;td style="text-align: center">经历长久的时间而更加鲜活，更加有活力，更显价值&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">囫囵吞枣&lt;/td>
+ &lt;td style="text-align: center">对事物不加分析思考&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">泥沙俱下&lt;/td>
+ &lt;td style="text-align: center">好坏性质不同的人或者事物混杂在一起&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: center">鱼龙混杂&lt;/td>
+ &lt;td style="text-align: center">好人和坏人混在一起&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>查看开放端口</title><link>https://blog.000k.de/post/%E6%9F%A5%E7%9C%8B%E5%BC%80%E6%94%BE%E7%AB%AF%E5%8F%A3.html</link><pubDate>Mon, 08 Apr 2024 18:19:13 +0800</pubDate><guid>https://blog.000k.de/post/%E6%9F%A5%E7%9C%8B%E5%BC%80%E6%94%BE%E7%AB%AF%E5%8F%A3.html</guid><description>&lt;h2 id="linux">linux
+&lt;a class="header-anchor" href="#linux">&lt;/a>
+&lt;/h2>&lt;h3 id="netstat命令">netstat命令：　　
+&lt;a class="header-anchor" href="#netstat%e5%91%bd%e4%bb%a4">&lt;/a>
+&lt;/h3>&lt;p>查询显示网络连接、路由表和网络接口等信息。使用以下命令可以查看当前开启的端口&lt;/p>
+&lt;p>&lt;strong>命令参数：&lt;/strong>&lt;/p>
+
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt" id="hl-0-1">&lt;a class="lnlinks" href="#hl-0-1"> 1&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-2">&lt;a class="lnlinks" href="#hl-0-2"> 2&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-3">&lt;a class="lnlinks" href="#hl-0-3"> 3&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-4">&lt;a class="lnlinks" href="#hl-0-4"> 4&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-5">&lt;a class="lnlinks" href="#hl-0-5"> 5&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-6">&lt;a class="lnlinks" href="#hl-0-6"> 6&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-7">&lt;a class="lnlinks" href="#hl-0-7"> 7&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-8">&lt;a class="lnlinks" href="#hl-0-8"> 8&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-9">&lt;a class="lnlinks" href="#hl-0-9"> 9&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-10">&lt;a class="lnlinks" href="#hl-0-10">10&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-11">&lt;a class="lnlinks" href="#hl-0-11">11&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-12">&lt;a class="lnlinks" href="#hl-0-12">12&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-13">&lt;a class="lnlinks" href="#hl-0-13">13&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-14">&lt;a class="lnlinks" href="#hl-0-14">14&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-15">&lt;a class="lnlinks" href="#hl-0-15">15&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-16">&lt;a class="lnlinks" href="#hl-0-16">16&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-17">&lt;a class="lnlinks" href="#hl-0-17">17&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-18">&lt;a class="lnlinks" href="#hl-0-18">18&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-19">&lt;a class="lnlinks" href="#hl-0-19">19&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-20">&lt;a class="lnlinks" href="#hl-0-20">20&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-21">&lt;a class="lnlinks" href="#hl-0-21">21&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-22">&lt;a class="lnlinks" href="#hl-0-22">22&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-23">&lt;a class="lnlinks" href="#hl-0-23">23&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-24">&lt;a class="lnlinks" href="#hl-0-24">24&lt;/a>
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-cmd" data-lang="cmd">&lt;span class="line">&lt;span class="cl">-a或–all 显示所有连线中的Socket。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-A&lt;span class="p">&amp;lt;&lt;/span>网络类型&lt;span class="p">&amp;gt;&lt;/span>或–&lt;span class="p">&amp;lt;&lt;/span>网络类型&lt;span class="p">&amp;gt;&lt;/span> 列出该网络类型连线中的相关地址。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-c或–continuous 持续列出网络状态。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-C或–cache 显示路由器配置的快取信息。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-e或–extend 显示网络其他相关信息。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-F或–fib 显示FIB。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-g或–groups 显示多重广播功能群组组员名单。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-h或–help 在线帮助。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-i或–interfaces 显示网络界面信息表单。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-l或–listening 显示监控中的服务器的Socket。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-M或–masquerade 显示伪装的网络连线。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-n或–numeric 直接使用IP地址，而不通过域名服务器。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-N或–netlink或–symbolic 显示网络硬件外围设备的符号连接名称。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-o或–timers 显示计时器。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-p或–programs 显示正在使用Socket的程序识别码和程序名称。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-r或–route 显示Routing Table。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-s或–statistice 显示网络工作信息统计表。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-t或–tcp 显示TCP传输协议的连线状况。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-u或–udp 显示UDP传输协议的连线状况。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-v或–verbose 显示指令执行过程。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-V或–version 显示版本信息。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-w或–raw 显示RAW传输协议的连线状况。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">-x或–unix 此参数的效果和指定”-A unix”参数相同。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">–ip或–inet 此参数的效果和指定”-A inet”参数相同。&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>
+
+&lt;h4 id="例子">例子：
+&lt;a class="header-anchor" href="#%e4%be%8b%e5%ad%90">&lt;/a>
+&lt;/h4>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt" id="hl-1-1">&lt;a class="lnlinks" href="#hl-1-1">1&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-2">&lt;a class="lnlinks" href="#hl-1-2">2&lt;/a>
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">netstat -tuln
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">netstat -ano&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>
+
+&lt;p>该命令会列出所有TCP和UDP协议的监听端口。其中，-t参数表示显示TCP协议，-u表示显示UDP协议，-l表示只显示监听状态的端口，-n表示以数字形式显示端口号。&lt;/p></description></item><item><title>菜刀、蚁剑、冰蝎流量特征</title><link>https://blog.000k.de/post/webshell.html</link><pubDate>Sat, 16 Mar 2024 10:00:13 +0800</pubDate><guid>https://blog.000k.de/post/webshell.html</guid><description>&lt;h2 id="菜刀">菜刀
+&lt;a class="header-anchor" href="#%e8%8f%9c%e5%88%80">&lt;/a>
+&lt;/h2>&lt;p>使用了base64的方式加密了发送给“菜刀马”的指令，其中的两个关键payload z1和z2，这个名字是可变的&lt;/p>
+&lt;h2 id="蚁剑">蚁剑
+&lt;a class="header-anchor" href="#%e8%9a%81%e5%89%91">&lt;/a>
+&lt;/h2>&lt;p>默认的USER-agent请求头 是 antsword xxx，但是 可以通过修改：/modules/request.js 文件中 请求UA绕过，现在版本已经自己修改const USER_AGENT = require(&amp;lsquo;random-fake-useragent&amp;rsquo;);也可以看随机useragent访问同一个文件的频率&lt;/p></description></item><item><title>Django项目学习(一)</title><link>https://blog.000k.de/post/DjangoOne.html</link><pubDate>Sat, 16 Mar 2024 10:00:00 +0800</pubDate><guid>https://blog.000k.de/post/DjangoOne.html</guid><description>&lt;p>&lt;strong>manage.py:&lt;/strong> 一个实用的命令行工具，可让你以各种方式与该 Django 项目进行交互。&lt;/p>
+&lt;h2 id="默认目录">默认目录
+&lt;a class="header-anchor" href="#%e9%bb%98%e8%ae%a4%e7%9b%ae%e5%bd%95">&lt;/a>
+&lt;/h2>&lt;p>Sec_Tools/&lt;strong>init&lt;/strong>.py一个空文件，告诉 Python 该目录是一个 Python 包。&lt;/p>
+&lt;h4 id="项目目录设置sec_toolsurlspy">项目目录设置Sec_Tools/urls.py
+&lt;a class="header-anchor" href="#%e9%a1%b9%e7%9b%ae%e7%9b%ae%e5%bd%95%e8%ae%be%e7%bd%aesec_toolsurlspy">&lt;/a>
+&lt;/h4>&lt;p>该 Django 项目的 URL 声明; 一份由 Django 驱动的网站&amp;quot;目录&amp;quot;。&lt;/p></description></item><item><title>tostring和getbytes不能一起使用</title><link>https://blog.000k.de/post/tostring%E5%92%8Cgetbytes%E4%B8%8D%E8%83%BD%E4%B8%80%E8%B5%B7%E4%BD%BF%E7%94%A8.html</link><pubDate>Wed, 10 Jan 2024 22:19:13 +0800</pubDate><guid>https://blog.000k.de/post/tostring%E5%92%8Cgetbytes%E4%B8%8D%E8%83%BD%E4%B8%80%E8%B5%B7%E4%BD%BF%E7%94%A8.html</guid><description>&lt;h2 id="问题">问题
+&lt;a class="header-anchor" href="#%e9%97%ae%e9%a2%98">&lt;/a>
+&lt;/h2>
+ &lt;blockquote>
+ &lt;p>a.equals(a.getBytes().toString()为什么是false&lt;/p>
+ &lt;/blockquote>
+&lt;h2 id="解答">解答
+&lt;a class="header-anchor" href="#%e8%a7%a3%e7%ad%94">&lt;/a>
+&lt;/h2>&lt;p>a.equals(a.getBytes().toString()) 这一表达式返回 &lt;code>false&lt;/code> 的原因是 &lt;code>equals()&lt;/code> 方法在比较字符串时，不仅比较字符本身，还会比较两个字符串的内部表示，包括它们在内存中的地址和字节编码。&lt;/p></description></item><item><title>当前的我究竟为什么而活</title><link>https://blog.000k.de/post/TheSecretLifeofWalterMitty.html</link><pubDate>Sun, 07 Jan 2024 07:00:13 +0800</pubDate><guid>https://blog.000k.de/post/TheSecretLifeofWalterMitty.html</guid><description>&lt;h1 id="">
+&lt;a class="header-anchor" href="#">&lt;/a>
+&lt;/h1>&lt;p>&lt;img src="https://blog.000k.de/imgs/img-lazy-loading.gif" data-src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fsafe-img.xhscdn.com%2Fbw1%2Fa8dc82cd-4cf7-423a-95df-8901b4b2d403%3FimageView2%2F2%2Fw%2F1080%2Fformat%2Fjpg&amp;amp;refer=http%3A%2F%2Fsafe-img.xhscdn.com&amp;amp;app=2002&amp;amp;size=f9999,10000&amp;amp;q=a80&amp;amp;n=0&amp;amp;g=0n&amp;amp;fmt=auto?sec=1707181588&amp;amp;t=630b7c18cc3c779291bac2de59f1b7fd" alt="白日梦想家" />&lt;/p>
+&lt;h2 id="观影背景">观影背景
+&lt;a class="header-anchor" href="#%e8%a7%82%e5%bd%b1%e8%83%8c%e6%99%af">&lt;/a>
+&lt;/h2>&lt;p>1、在回来的高铁上为了不浪费时间，又因为没有网，所以提前下载了一部电影——白日梦想家。&lt;/p>
+&lt;p>2、之前经常听说过这部电影，但有时候静不下心来看它，觉得只是一个普通的电影。&lt;/p></description></item><item><title>GO笔记（一）</title><link>https://blog.000k.de/post/GoOne.html</link><pubDate>Mon, 18 Dec 2023 21:19:13 +0800</pubDate><guid>https://blog.000k.de/post/GoOne.html</guid><description>&lt;h2 id="一helloworld">一、helloworld
+&lt;a class="header-anchor" href="#%e4%b8%80helloworld">&lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt" id="hl-0-1">&lt;a class="lnlinks" href="#hl-0-1">1&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-2">&lt;a class="lnlinks" href="#hl-0-2">2&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-3">&lt;a class="lnlinks" href="#hl-0-3">3&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-4">&lt;a class="lnlinks" href="#hl-0-4">4&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-5">&lt;a class="lnlinks" href="#hl-0-5">5&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-6">&lt;a class="lnlinks" href="#hl-0-6">6&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-7">&lt;a class="lnlinks" href="#hl-0-7">7&lt;/a>
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-go" data-lang="go">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">package&lt;/span> &lt;span class="nx">main&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="s">&amp;#34;fmt&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kd">func&lt;/span> &lt;span class="nf">main&lt;/span>&lt;span class="p">()&lt;/span> &lt;span class="p">{&lt;/span> 
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">fmt&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nf">Println&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s">&amp;#34;Hello World&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>
+
+&lt;h2 id="二变量声明">二、变量声明
+&lt;a class="header-anchor" href="#%e4%ba%8c%e5%8f%98%e9%87%8f%e5%a3%b0%e6%98%8e">&lt;/a>
+&lt;/h2>&lt;p>和C的完全相反，变量类型在后面，在变量名前面的是var&lt;/p>
+
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt" id="hl-1-1">&lt;a class="lnlinks" href="#hl-1-1"> 1&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-2">&lt;a class="lnlinks" href="#hl-1-2"> 2&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-3">&lt;a class="lnlinks" href="#hl-1-3"> 3&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-4">&lt;a class="lnlinks" href="#hl-1-4"> 4&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-5">&lt;a class="lnlinks" href="#hl-1-5"> 5&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-6">&lt;a class="lnlinks" href="#hl-1-6"> 6&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-7">&lt;a class="lnlinks" href="#hl-1-7"> 7&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-8">&lt;a class="lnlinks" href="#hl-1-8"> 8&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-9">&lt;a class="lnlinks" href="#hl-1-9"> 9&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-10">&lt;a class="lnlinks" href="#hl-1-10">10&lt;/a>
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-Go" data-lang="Go">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">var&lt;/span> &lt;span class="nx">area&lt;/span> &lt;span class="kt">int&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kd">var&lt;/span> &lt;span class="nx">age&lt;/span> &lt;span class="kt">int&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="mi">29&lt;/span> &lt;span class="c1">// 声明变量并初始化&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kd">var&lt;/span> &lt;span class="nx">width&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="nx">height&lt;/span> &lt;span class="kt">int&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kd">var&lt;/span> &lt;span class="nx">width&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="nx">height&lt;/span> &lt;span class="kt">int&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="mi">100&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">50&lt;/span> &lt;span class="c1">// 声明多个&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kd">var&lt;/span> &lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">name&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="s">&amp;#34;naveen&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">age&lt;/span> &lt;span class="p">=&lt;/span> &lt;span class="mi">29&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nx">height&lt;/span> &lt;span class="kt">int&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">)&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>
+
+
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt" id="hl-2-1">&lt;a class="lnlinks" href="#hl-2-1">1&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-2-2">&lt;a class="lnlinks" href="#hl-2-2">2&lt;/a>
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-go" data-lang="go">&lt;span class="line">&lt;span class="cl">&lt;span class="nx">name&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="nx">age&lt;/span> &lt;span class="o">:=&lt;/span> &lt;span class="s">&amp;#34;naveen&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mi">29&lt;/span> &lt;span class="c1">// 简短声明&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nx">name&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="nx">age&lt;/span> &lt;span class="o">:=&lt;/span> &lt;span class="s">&amp;#34;naveen&amp;#34;&lt;/span> &lt;span class="c1">//error&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>
+
+
+ &lt;blockquote>
+ &lt;p>简短声明的语法要求 &lt;strong>:=&lt;/strong> 操作符的左边至少有一个变量是尚未声明的&lt;/p></description></item><item><title>中国蚁剑-AntSword</title><link>https://blog.000k.de/post/AntSwordstudy.html</link><pubDate>Sat, 09 Dec 2023 10:00:13 +0800</pubDate><guid>https://blog.000k.de/post/AntSwordstudy.html</guid><description>&lt;p>&lt;strong>中国蚁剑是一种跨平台操作工具，它主要提供给用户用于有效的网络渗透测试以及进行正常运行的网站。&lt;/strong>
+&lt;strong>否则任何人不得将网站用于其无效用途以及可能的等目的。自己承担并追究其相关责任！&lt;/strong>&lt;/p></description></item><item><title>nc学习使用</title><link>https://blog.000k.de/post/ncstudy.html</link><pubDate>Thu, 07 Dec 2023 23:19:13 +0800</pubDate><guid>https://blog.000k.de/post/ncstudy.html</guid><description>&lt;h2 id="nc-ncat">nc (ncat)
+&lt;a class="header-anchor" href="#nc-ncat">&lt;/a>
+&lt;/h2>&lt;p>Ncat is a feature-packed networking utility which reads and writes data across networks from the command line；&lt;/p>
+&lt;p>&lt;code>nc(ncat)&lt;/code>：Ncat是一个功能丰富的网络实用工具；支持端口监听、远程通信、文件传输、端口扫描、反向Shell、端口转发功能；&lt;/p></description></item><item><title>各个语言做服务器</title><link>https://blog.000k.de/post/%E7%AE%80%E6%98%93%E6%9C%8D%E5%8A%A1%E5%99%A8.html</link><pubDate>Sat, 02 Dec 2023 12:19:13 +0800</pubDate><guid>https://blog.000k.de/post/%E7%AE%80%E6%98%93%E6%9C%8D%E5%8A%A1%E5%99%A8.html</guid><description>&lt;h2 id="python">Python
+&lt;a class="header-anchor" href="#python">&lt;/a>
+&lt;/h2>&lt;p>&lt;strong>python -m SimpleHTTPServer&lt;/strong>&lt;/p>
+&lt;p>默认的端口号是8000， 服务器根目录就是运行python命令的工作目录&lt;/p>
+&lt;p>如果是python3版本：&lt;/p>
+&lt;p>则试一下命令：&lt;/p>
+&lt;p>&lt;strong>python -m http.server&lt;/strong>&lt;/p>
+&lt;p>用http://127.0.0.1:8000即可访问目录下内容&lt;/p></description></item><item><title>当你上网的那瞬间发生了什么？</title><link>https://blog.000k.de/post/startWeb.html</link><pubDate>Sat, 02 Dec 2023 00:19:13 +0800</pubDate><guid>https://blog.000k.de/post/startWeb.html</guid><description>&lt;p>这个仓库试图回答一个古老的面试问题：当你在浏览器中输入 google.com
+并且按下回车之后发生了什么？&lt;/p>
+&lt;p>不过我们不再局限于平常的回答，而是想办法回答地尽可能具体，不遗漏任何细节。&lt;/p></description></item><item><title>OPTION为跨域请求准备</title><link>https://blog.000k.de/post/OPTIONstudy.html</link><pubDate>Fri, 01 Dec 2023 00:19:13 +0800</pubDate><guid>https://blog.000k.de/post/OPTIONstudy.html</guid><description>&lt;h1 id="option为跨域请求准备">OPTION为跨域请求准备
+&lt;a class="header-anchor" href="#option%e4%b8%ba%e8%b7%a8%e5%9f%9f%e8%af%b7%e6%b1%82%e5%87%86%e5%a4%87">&lt;/a>
+&lt;/h1>&lt;p>先学习一下同源策略和跨域资源共享&lt;/p>
+&lt;h2 id="同源策略">同源策略
+&lt;a class="header-anchor" href="#%e5%90%8c%e6%ba%90%e7%ad%96%e7%95%a5">&lt;/a>
+&lt;/h2>&lt;p>如果两个URL协议(protocol)、端口（port）、主机（host）,都相同，则称这个URL为同源。CORS它是W3C万维网联盟的标准，它定义了在跨域访问资源时浏览器和服务器之间如何通信。它是为突破同源策略的限制而出现的一种&lt;strong>官方标准的跨域解决方案&lt;/strong>。在实战场景中，跨域场景太为常见了（特别是当下前后端分离的开发模式），因此深入理解CORS变得就异常的重要了（反倒前端工程师不用太了解）。&lt;/p></description></item><item><title>谷歌搜索语法</title><link>https://blog.000k.de/post/google%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95.html</link><pubDate>Tue, 28 Nov 2023 00:19:13 +0800</pubDate><guid>https://blog.000k.de/post/google%E6%90%9C%E7%B4%A2%E8%AF%AD%E6%B3%95.html</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>语法&lt;/th>
+ &lt;th>注释&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>inurl://admin/login.php&lt;/td>
+ &lt;td>查找管理员登陆页面&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>inurl:phpmyadmin/index.php&lt;/td>
+ &lt;td>查找后台数据库管理页面&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>inurl:Login admin&lt;/td>
+ &lt;td>返回url中含有Login和admin的网页&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>site:baidu.com inurl:Login&lt;/td>
+ &lt;td>只在baidu.com中查找url中含有Login的网页&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>site:baidu.com filetype:pdf&lt;/td>
+ &lt;td>只返回baidu.com站点上文件类型为pdf的网页&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>link:www.baidu.com&lt;/td>
+ &lt;td>返回所有包含指向 
+&lt;a href="https://www.baidu.com" title="www.baidu.com" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ www.baidu.com
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a> 的网页&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>related:www.llhc.edu.cn&lt;/td>
+ &lt;td>返回与 
+&lt;a href="https://www.llhc.edu.cn" title="www.llhc.edu.cn" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ www.llhc.edu.cn
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a> 网页布局相似的页面&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>info:www.baidu.com&lt;/td>
+ &lt;td>返回百度的一些信息&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>define:Hacker&lt;/td>
+ &lt;td>返回关于Hacker的定义&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>site:xx.com intext:管理 site:xx.com inurl:login site:xx.com intitle:后台&lt;/td>
+ &lt;td>查找网站后台&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>site:xx.com filetype:php&lt;/td>
+ &lt;td>查看服务器使用的程序&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>site:xx.com inurl:file site:xx.com inurl:load&lt;/td>
+ &lt;td>查看上传漏洞&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="大致命令">大致命令：
+&lt;a class="header-anchor" href="#%e5%a4%a7%e8%87%b4%e5%91%bd%e4%bb%a4">&lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt" id="hl-0-1">&lt;a class="lnlinks" href="#hl-0-1"> 1&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-2">&lt;a class="lnlinks" href="#hl-0-2"> 2&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-3">&lt;a class="lnlinks" href="#hl-0-3"> 3&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-4">&lt;a class="lnlinks" href="#hl-0-4"> 4&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-5">&lt;a class="lnlinks" href="#hl-0-5"> 5&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-6">&lt;a class="lnlinks" href="#hl-0-6"> 6&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-7">&lt;a class="lnlinks" href="#hl-0-7"> 7&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-8">&lt;a class="lnlinks" href="#hl-0-8"> 8&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-9">&lt;a class="lnlinks" href="#hl-0-9"> 9&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-10">&lt;a class="lnlinks" href="#hl-0-10">10&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-11">&lt;a class="lnlinks" href="#hl-0-11">11&lt;/a>
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">intext：寻找正文中含有关键字的网页
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">intitle：寻找标题中含有关键字的网页
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">allintitle：用法和intitle类似，只不过可以指定多个词
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">inurl：将返回url中含有关键词的网页
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">allinurl：用法和inurl类似，只不过可以指定多个词
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">site：指定访问的站点
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">filetype：指定访问的文件类型
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">link：指定链接的网页
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">related：相似类型的网页
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">info：返回站点的指定信息
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">define：返回某个词语的定义&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>
+
+&lt;p>上面这些命令中用的最多的就是 inurl: 了，利用这个命令，可以查到很多意想不到的东西&lt;/p></description></item><item><title>快捷键汇总</title><link>https://blog.000k.de/post/fastkeyboard.html</link><pubDate>Tue, 21 Nov 2023 00:00:13 +0800</pubDate><guid>https://blog.000k.de/post/fastkeyboard.html</guid><description>&lt;h2 id="notepad">notepad&amp;ndash;
+&lt;a class="header-anchor" href="#notepad">&lt;/a>
+&lt;/h2>&lt;h3 id="选择指定行">选择指定行
+&lt;a class="header-anchor" href="#%e9%80%89%e6%8b%a9%e6%8c%87%e5%ae%9a%e8%a1%8c">&lt;/a>
+&lt;/h3>
+ &lt;blockquote>
+ &lt;p>鼠标光标停留在一行的某处，按 Home 键光标会跳到行首，按End键光标会跳到行尾。&lt;/p>
+&lt;p>鼠标光标停留在行尾，按 Shift + Home 选中一行。&lt;/p>
+&lt;p>鼠标光标停留在行首，按 Shift + End 选中一行。&lt;/p></description></item><item><title>内网渗透-通信技术</title><link>https://blog.000k.de/post/2023/11/13StudyNeiWang.html</link><pubDate>Mon, 13 Nov 2023 08:00:13 +0800</pubDate><guid>https://blog.000k.de/post/2023/11/13StudyNeiWang.html</guid><description>&lt;h2 id="背景">背景
+&lt;a class="header-anchor" href="#%e8%83%8c%e6%99%af">&lt;/a>
+&lt;/h2>&lt;p>当拿到某网络主机的权限，发现无法将流量或者权限发送出来，对渗透造成了很大的影响，所以内网渗透必须需要了解到两种主要的通信技术–&lt;strong>代理与隧道（端口转发）技术&lt;/strong>。&lt;/p></description></item><item><title>GEEK极客部分WriteUp</title><link>https://blog.000k.de/post/GEEK%E2%80%99sWriteUp.html</link><pubDate>Tue, 07 Nov 2023 18:19:13 +0800</pubDate><guid>https://blog.000k.de/post/GEEK%E2%80%99sWriteUp.html</guid><description>&lt;h2 id="一easy_php">一、easy_php
+&lt;a class="header-anchor" href="#%e4%b8%80easy_php">&lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt" id="hl-0-1">&lt;a class="lnlinks" href="#hl-0-1">1&lt;/a>
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-php" data-lang="php">&lt;span class="line">&lt;span class="cl">&lt;span class="nx">isset&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nv">$_GET&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="s1">&amp;#39;syc&amp;#39;&lt;/span>&lt;span class="p">])&lt;/span>&lt;span class="o">&amp;amp;&amp;amp;&lt;/span>&lt;span class="nx">preg_match&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;/^Welcome to GEEK 2023!$/i&amp;#39;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="nv">$_GET&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="s1">&amp;#39;syc&amp;#39;&lt;/span>&lt;span class="p">])&lt;/span> &lt;span class="o">&amp;amp;&amp;amp;&lt;/span> &lt;span class="nv">$_GET&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="s1">&amp;#39;syc&amp;#39;&lt;/span>&lt;span class="p">]&lt;/span> &lt;span class="o">!==&lt;/span> &lt;span class="s1">&amp;#39;Welcome to GEEK 2023!&amp;#39;&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>
+
+&lt;p>isset($_GET[&amp;lsquo;syc&amp;rsquo;])：检查$_GET[&amp;lsquo;syc&amp;rsquo;]变量是否已设置，即检查用户是否传递了名为syc的参数。
+preg_match(&amp;rsquo;/^Welcome to GEEK 2023!$/i&amp;rsquo;, $_GET[&amp;lsquo;syc&amp;rsquo;])：使用正则表达式检查$_GET[&amp;lsquo;syc&amp;rsquo;]的值是否与Welcome to GEEK 2023!完全匹配。i表示不区分大小写。
+$_GET[&amp;lsquo;syc&amp;rsquo;] !== &amp;lsquo;Welcome to GEEK 2023!&amp;rsquo;：检查$_GET[&amp;lsquo;syc&amp;rsquo;]的值是否不等于Welcome to GEEK 2023！。&lt;/p></description></item><item><title>正向代理和反向代理</title><link>https://blog.000k.de/post/1112.html</link><pubDate>Sat, 23 Sep 2023 00:00:13 +0800</pubDate><guid>https://blog.000k.de/post/1112.html</guid><description>&lt;blockquote>
+ &lt;p>代理通常是指用户和网页服务器之间的中介。您可能了解有各种不同用途的代理。在本文中，我们将介绍正向和反向代理服务器之间的区别。首先，我们来了解什么是正向代理和反向代理，在概念上做到认识一致。&lt;/p></description></item><item><title>试修改莞工计科助手页面成绩</title><link>https://blog.000k.de/post/1111.html</link><pubDate>Tue, 19 Sep 2023 00:19:13 +0800</pubDate><guid>https://blog.000k.de/post/1111.html</guid><description>&lt;h3 id="一实践工具">一、实践工具
+&lt;a class="header-anchor" href="#%e4%b8%80%e5%ae%9e%e8%b7%b5%e5%b7%a5%e5%85%b7">&lt;/a>
+&lt;/h3>&lt;p>代理工具：Proxifier 3.42&lt;/p>
+&lt;p>抓包工具：BurpSuite V2023.3.2&lt;/p>
+&lt;h3 id="二最终效果截图">二、最终效果截图
+&lt;a class="header-anchor" href="#%e4%ba%8c%e6%9c%80%e7%bb%88%e6%95%88%e6%9e%9c%e6%88%aa%e5%9b%be">&lt;/a>
+&lt;/h3>&lt;p>&lt;img src="https://blog.000k.de/imgs/img-lazy-loading.gif" data-src="https://z1.ax1x.com/2023/09/19/pP599u8.png" alt="pP599u8.png" />&lt;/p>
+&lt;h3 id="三实现原理">三、实现原理
+&lt;a class="header-anchor" href="#%e4%b8%89%e5%ae%9e%e7%8e%b0%e5%8e%9f%e7%90%86">&lt;/a>
+&lt;/h3>&lt;p>用Proxifier对电脑上面的小程序的流量进行代理，将流量全部导向burp的8080端口，让burp可以进行改包。&lt;/p></description></item><item><title>CSRF攻击和防御</title><link>https://blog.000k.de/post/CSRFstudy.html</link><pubDate>Fri, 11 Aug 2023 00:19:13 +0800</pubDate><guid>https://blog.000k.de/post/CSRFstudy.html</guid><description>&lt;h1 id="">
+&lt;a class="header-anchor" href="#">&lt;/a>
+&lt;/h1>&lt;h2 id="csrf攻击">CSRF攻击
+&lt;a class="header-anchor" href="#csrf%e6%94%bb%e5%87%bb">&lt;/a>
+&lt;/h2>&lt;p>&lt;img src="https://blog.000k.de/imgs/img-lazy-loading.gif" data-src="https://s1.ax1x.com/2023/08/06/pPANWs1.png" alt="pPANWs1.png" />&lt;/p>
+&lt;p>CSRF 英文全称是 Cross-site request forgery，所以又称为“跨站请求伪造”，是指黑客引诱用户打开黑客的网站，在黑客的网站中，利用用户的登录状态发起的跨站请求。简单来讲，CSRF 攻击就是黑客利用了用户的登录状态，并通过第三方的站点来做一些坏事。&lt;/p></description></item><item><title>学习DLL注入</title><link>https://blog.000k.de/post/DLLstudy.html</link><pubDate>Fri, 04 Aug 2023 00:00:13 +0800</pubDate><guid>https://blog.000k.de/post/DLLstudy.html</guid><description>&lt;h2 id="dll文件简介">dll文件简介
+&lt;a class="header-anchor" href="#dll%e6%96%87%e4%bb%b6%e7%ae%80%e4%bb%8b">&lt;/a>
+&lt;/h2>
+ &lt;blockquote>
+ &lt;p>​	.dll文件是Dynamic Link Library（动态链接库）文件的缩写，它是一种共享库文件，包含了程序所需的代码和数据。与静态链接库不同，动态链接库可以在程序运行时动态加载，使得程序的内存占用更小，同时也方便了程序的更新和维护。然而，这并不意味着我们不能以任何其他形式（可执行文件、手写文件等）注入程序集。需要注意的是，您需要在系统上拥有适当级别的权限才能开始使用其他程序的内存。&lt;/p></description></item><item><title>编码是什么</title><link>https://blog.000k.de/post/%E7%BC%96%E7%A0%81%E6%98%AF%E4%BB%80%E4%B9%88.html</link><pubDate>Wed, 02 Aug 2023 23:00:13 +0800</pubDate><guid>https://blog.000k.de/post/%E7%BC%96%E7%A0%81%E6%98%AF%E4%BB%80%E4%B9%88.html</guid><description>&lt;h2 id="字符集与字符编码">字符集与字符编码
+&lt;a class="header-anchor" href="#%e5%ad%97%e7%ac%a6%e9%9b%86%e4%b8%8e%e5%ad%97%e7%ac%a6%e7%bc%96%e7%a0%81">&lt;/a>
+&lt;/h2>&lt;p>​	字符是各种文字和符号的总称，包括各个国家文字、标点符号、图形符号、数字等。字符集是多个字符的集合，字符集种类较多，每个字符集包含的字符个数不同，常见字符集有：ASCII字符集、ISO 8859字符集、GB2312字符集、BIG5字符集、GB18030字符集、unicode字符集等。计算机要准确的处理各种字符集文字，需要进行字符编码，以便计算机能够识别和存储各种文字。
+​	编码(encoding)和字符集不同。字符集只是字符的集合，不一定适合作网络传送、处理，有时须经编码(encode)后才能应用。如unicode可依不同需要以UTF-8、UTF-16、UTF-32等方式编码。&lt;/p></description></item><item><title>关于数据库的学习和拓展</title><link>https://blog.000k.de/post/RDBMS%E5%92%8Cnosql%E7%9A%84%E5%AD%A6%E4%B9%A0%E5%92%8C%E6%89%A9%E5%B1%95.html</link><pubDate>Tue, 01 Aug 2023 23:00:13 +0800</pubDate><guid>https://blog.000k.de/post/RDBMS%E5%92%8Cnosql%E7%9A%84%E5%AD%A6%E4%B9%A0%E5%92%8C%E6%89%A9%E5%B1%95.html</guid><description>&lt;h2 id="数据库简介">数据库简介
+&lt;a class="header-anchor" href="#%e6%95%b0%e6%8d%ae%e5%ba%93%e7%ae%80%e4%bb%8b">&lt;/a>
+&lt;/h2>&lt;p>数据库是数据管理的重要技术，也是计算机的重要分支。&lt;/p>
+&lt;p>数据库管理系统是一种操纵和管理数据库的大型软件，用于建立、使用和维护数据库，简称 DBMS。&lt;/p>
+&lt;p>根据存储模型可将数据库划分为关系型数据库和非关系型数据.。&lt;/p></description></item><item><title>使用hugo框架创建个人博客</title><link>https://blog.000k.de/post/hugostudy.html</link><pubDate>Tue, 01 Aug 2023 00:19:13 +0800</pubDate><guid>https://blog.000k.de/post/hugostudy.html</guid><description>&lt;h2 id="一配置环境">一、配置环境
+&lt;a class="header-anchor" href="#%e4%b8%80%e9%85%8d%e7%bd%ae%e7%8e%af%e5%a2%83">&lt;/a>
+&lt;/h2>
+ &lt;blockquote>
+ &lt;p>
+&lt;a href="https://github.com/gohugoio/hugo/releases" title="https://github.com/gohugoio/hugo/releases" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ https://github.com/gohugoio/hugo/releases
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a>&lt;/p>
+ &lt;/blockquote>
+&lt;p>&lt;img src="https://blog.000k.de/imgs/img-lazy-loading.gif" data-src="https://s1.ax1x.com/2023/08/01/pPCEkrT.png" alt="pPCEkrT.png" />&lt;/p>
+&lt;p>下载window版本的hugo(如果该版本不属于你的window操作系统则下载最下面一行的hugo_extended_0.116.0_windows-amd64.zip这一个资源文件)&lt;/p></description></item><item><title>Nmap学习使用</title><link>https://blog.000k.de/post/Nmapstudy.html</link><pubDate>Wed, 26 Jul 2023 00:19:13 +0800</pubDate><guid>https://blog.000k.de/post/Nmapstudy.html</guid><description>&lt;h3 id="介绍">介绍
+&lt;a class="header-anchor" href="#%e4%bb%8b%e7%bb%8d">&lt;/a>
+&lt;/h3>
+ &lt;blockquote>
+ &lt;p>Nmap (Network Mapper) 是一个开源的网络扫描工具，用于发现主机和服务，并识别网络上的开放端口。它广泛用于网络管理员、安全专家和黑客等领域。Nmap提供了丰富的功能和参数，使其成为一种功能强大的网络探测工具。&lt;/p></description></item><item><title>SQLMAP学习使用</title><link>https://blog.000k.de/post/sqlmapstudy.html</link><pubDate>Wed, 26 Jul 2023 00:19:13 +0800</pubDate><guid>https://blog.000k.de/post/sqlmapstudy.html</guid><description>&lt;h3 id="sql描述">SQL描述
+&lt;a class="header-anchor" href="#sql%e6%8f%8f%e8%bf%b0">&lt;/a>
+&lt;/h3>
+ &lt;blockquote>
+ &lt;p>SQLMap是一款开源的渗透测试工具，主要用于检测和利用SQL注入漏洞。它是由Burp Suite工具的开发者Bernardo Damele和Miroslav Stampar创建的，并在Python语言下开发。SQL注入是一种常见的网络应用程序漏洞，通过此漏洞，攻击者可以在应用程序的数据库中执行恶意的SQL查询，从而获取敏感数据、修改数据或者对数据库进行非授权的访问。&lt;/p></description></item><item><title>关于进程控制</title><link>https://blog.000k.de/post/custom-files.html</link><pubDate>Wed, 19 Jul 2023 22:19:13 +0800</pubDate><guid>https://blog.000k.de/post/custom-files.html</guid><description>&lt;h2 id="windows的tasklist">Windows的TASKLIST
+&lt;a class="header-anchor" href="#windows%e7%9a%84tasklist">&lt;/a>
+&lt;/h2>
+ &lt;blockquote>
+ &lt;p>TASKLIST [/S system [/U username [/P [password]]]]
+[/M [module] | /SVC | /V] [/FI filter] [/FO format] [/NH]&lt;/p>
+ &lt;/blockquote>
+&lt;h3 id="描述">描述
+&lt;a class="header-anchor" href="#%e6%8f%8f%e8%bf%b0">&lt;/a>
+&lt;/h3>&lt;p>该工具显示在本地或远程机器上当前运行的进程列表。&lt;/p>
+&lt;h3 id="参数列表">参数列表:
+&lt;a class="header-anchor" href="#%e5%8f%82%e6%95%b0%e5%88%97%e8%a1%a8">&lt;/a>
+&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">/S &lt;computer> system 指定连接到的远程系统。&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">/U &lt;domain>&amp;lt;username&amp;gt; 指定应该在哪个用户上下文执行这个命令。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">/P &lt;password> 为提供的用户上下文指定密码。如果省略，则 提示输入。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">/M &lt;module> 列出当前使用所给 exe/dll 名称的所有任务。如果没有指定模块名称，显示所有加载的模块。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">/SVC 显示每个进程中主持的服务。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">/V 显示详述任务信息。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">/FI &lt;filter> 显示一系列符合筛选器指定的标准的任务。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">/FO format 指定输出格式。 有效值: &amp;ldquo;TABLE&amp;rdquo;、&amp;ldquo;LIST&amp;rdquo;、&amp;ldquo;CSV&amp;rdquo;。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">/NH 指定列标题不应该在输出中显示。 只对 &amp;ldquo;TABLE&amp;rdquo; 和 &amp;ldquo;CSV&amp;rdquo; 格式有效。&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">/? 显示帮助消息。&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="示例">示例
+&lt;a class="header-anchor" href="#%e7%a4%ba%e4%be%8b">&lt;/a>
+&lt;/h3>&lt;p>若要列出进程 ID 大于 1000 的所有任务，并将它们以 csv 格式显示，请键入：&lt;/p></description></item><item><title>爬取学校官网通知</title><link>https://blog.000k.de/post/%E7%88%AC%E5%8F%96%E5%AD%A6%E6%A0%A1%E5%AE%98%E7%BD%91%E9%80%9A%E7%9F%A5/</link><pubDate>Tue, 20 Jun 2023 00:00:13 +0800</pubDate><guid>https://blog.000k.de/post/%E7%88%AC%E5%8F%96%E5%AD%A6%E6%A0%A1%E5%AE%98%E7%BD%91%E9%80%9A%E7%9F%A5/</guid><description>&lt;h2 id="爬虫开始">爬虫开始
+&lt;a class="header-anchor" href="#%e7%88%ac%e8%99%ab%e5%bc%80%e5%a7%8b">&lt;/a>
+&lt;/h2>&lt;p>首先看到页面呈现规则的各个方框，这意味着它们之间的一定是一样的&lt;/p>
+&lt;p>此处该有图&lt;/p>
+&lt;p>&lt;img src="https://blog.000k.de/imgs/img-lazy-loading.gif" data-src="https://s1.ax1x.com/2023/06/19/pC32YiF.png" alt="网页截图" />&lt;/p>
+&lt;p>我们点开后台可以看见属于通知活动的代码中很多这类”li“标签&lt;/p>
+
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt" id="hl-0-1">&lt;a class="lnlinks" href="#hl-0-1"> 1&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-2">&lt;a class="lnlinks" href="#hl-0-2"> 2&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-3">&lt;a class="lnlinks" href="#hl-0-3"> 3&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-4">&lt;a class="lnlinks" href="#hl-0-4"> 4&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-5">&lt;a class="lnlinks" href="#hl-0-5"> 5&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-6">&lt;a class="lnlinks" href="#hl-0-6"> 6&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-7">&lt;a class="lnlinks" href="#hl-0-7"> 7&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-8">&lt;a class="lnlinks" href="#hl-0-8"> 8&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-9">&lt;a class="lnlinks" href="#hl-0-9"> 9&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-10">&lt;a class="lnlinks" href="#hl-0-10">10&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-11">&lt;a class="lnlinks" href="#hl-0-11">11&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-12">&lt;a class="lnlinks" href="#hl-0-12">12&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-13">&lt;a class="lnlinks" href="#hl-0-13">13&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-14">&lt;a class="lnlinks" href="#hl-0-14">14&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-15">&lt;a class="lnlinks" href="#hl-0-15">15&lt;/a>
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-html" data-lang="html">&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">li&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">a&lt;/span> &lt;span class="na">href&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;../info/1042/48792.htm&amp;#34;&lt;/span> &lt;span class="na">target&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;_blank&amp;#34;&lt;/span> &lt;span class="na">title&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;关于开展2018届毕业生中期发展评价的通知&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">div&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;box&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">div&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;time&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">div&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;ll&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">img&lt;/span> &lt;span class="na">src&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;../images/list_box_07_ico.png&amp;#34;&lt;/span> &lt;span class="na">alt&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>2023.06.09
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">div&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">div&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;rr&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">img&lt;/span> &lt;span class="na">src&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;../images/list_box_24_ico.png&amp;#34;&lt;/span> &lt;span class="na">alt&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">div&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">div&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">h5&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;overfloat-dot-2&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>关于开展2018届毕业生中期发展评价的通知&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">h5&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">div&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="err">&amp;lt;&lt;/span>/&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>
+
+&lt;p>那么我们可以分别截取一下几个标签，分别是&lt;/p></description></item><item><title>Codebreakers战队 WriteUp</title><link>https://blog.000k.de/post/Codebreakers%E2%80%99sWriteUp.html</link><pubDate>Sat, 03 Jun 2023 18:19:13 +0800</pubDate><guid>https://blog.000k.de/post/Codebreakers%E2%80%99sWriteUp.html</guid><description>&lt;h2 id="排名">排名
+&lt;a class="header-anchor" href="#%e6%8e%92%e5%90%8d">&lt;/a>
+&lt;/h2>&lt;p>战队名称：第225名&lt;/p>
+&lt;p>&lt;img src="https://blog.000k.de/imgs/img-lazy-loading.gif" data-src="https://s1.ax1x.com/2023/06/03/pCpzctI.png" alt="pCpzctI.png" />]&lt;/p>
+&lt;h2 id="解题思路">解题思路
+&lt;a class="header-anchor" href="#%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af">&lt;/a>
+&lt;/h2>&lt;p>1、解压管道压缩包得到一张图片&lt;/p>
+&lt;p>2、将图片用StegSolve打开，不断查看图片各个通道，会发现在单色0通道上左上角出现白色条纹，却中间图案非常混杂，即可得知在图片的混杂数据。&lt;/p></description></item><item><title>ICMP数据报ping命令</title><link>https://blog.000k.de/post/ping%E5%91%BD%E4%BB%A4/</link><pubDate>Sat, 27 May 2023 22:19:13 +0800</pubDate><guid>https://blog.000k.de/post/ping%E5%91%BD%E4%BB%A4/</guid><description>&lt;blockquote>
+ &lt;p>Q: 结合实例“ping 
+&lt;a href="https://www.sina.com" title="www.sina.com" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ www.sina.com
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a>”给出 ping 命令的原理。&lt;/p>
+ &lt;/blockquote>
+&lt;p>Ping命令是一种常用的网络诊断工具，可以检测主机之间的联通性，测试网络连接速度和带宽使用情况。该命令发送一个数据包到目标主机，然后等待该主机响应，并记录来自目标主机的回复时间和信息，以供分析使用。&lt;/p></description></item><item><title>ICMP数据报tracert命令</title><link>https://blog.000k.de/post/tracert%E5%91%BD%E4%BB%A4/</link><pubDate>Sat, 27 May 2023 22:19:13 +0800</pubDate><guid>https://blog.000k.de/post/tracert%E5%91%BD%E4%BB%A4/</guid><description>&lt;blockquote>
+ &lt;p>Q: 结合实例“tracert 
+&lt;a href="https://www.163.com" title="www.163.com" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ www.163.com
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a>”给出 tracert 命令的原理。&lt;/p>
+ &lt;/blockquote>
+&lt;p>tracert命令是一款常用的网络诊断工具，它可以追踪Internet上从一个起始点到达另一个目的地的路由路径，并显示每个跃点的延迟时间。当我们执行“tracert 
+&lt;a href="https://www.163.com" title="www.163.com" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ www.163.com
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a>”的时候，操作系统就会发送一系列的数据包探测从本机到目标地址的路由，其中包括访问的每个信号跳跃点的详细信息。接下来，我将简要介绍一下“tracert”命令的原理。&lt;/p></description></item><item><title>ICMP数据报Identifier中BE和LE的区别</title><link>https://blog.000k.de/post/BEorLE.html</link><pubDate>Fri, 26 May 2023 22:19:13 +0800</pubDate><guid>https://blog.000k.de/post/BEorLE.html</guid><description>&lt;blockquote>
+ &lt;p>Q: 在icmp数据报中的标识符 Identifier (BE): 512 (0x0200) Identifier (LE): 2 (0x0002)这两个标识符有什么区别，有什么用，说个例子解释一下&lt;/p>
+ &lt;/blockquote>
+&lt;p>这两个标识符都是 ICMP 报文中的标识符字段，用于标识发送方发送的 ICMP 报文。区别在于 BE 和 LE 分别代表大端序和小端序，即字节序的不同。&lt;/p></description></item><item><title>Linux自启动方式</title><link>https://blog.000k.de/post/Linux%E8%87%AA%E5%90%AF%E5%8A%A8%E6%96%B9%E5%BC%8F.html</link><pubDate>Fri, 26 May 2023 22:19:13 +0800</pubDate><guid>https://blog.000k.de/post/Linux%E8%87%AA%E5%90%AF%E5%8A%A8%E6%96%B9%E5%BC%8F.html</guid><description>&lt;p>在Linux中，有多种方式可以设置开机自启动。以下是几种常见的方式：&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>使用init.d或rc.d脚本：在&lt;code>/etc/init.d/&lt;/code>或&lt;code>/etc/rc.d/&lt;/code>目录中，你可以创建一个启动脚本，并使用特定的命名约定（如以&amp;quot;S&amp;quot;开头并在其后跟一个数字来定义启动顺序）。这些脚本将在系统引导过程中自动执行。例如，你可以将启动脚本放在&lt;code>/etc/init.d/myscript&lt;/code>，然后使用以下命令将其添加到启动过程中：&lt;/p></description></item><item><title>网安学习路径</title><link>https://blog.000k.de/post/wanganstudy.html</link><pubDate>Fri, 26 May 2023 22:19:13 +0800</pubDate><guid>https://blog.000k.de/post/wanganstudy.html</guid><description>&lt;h2 id="网络安全学习路线">网络安全学习路线
+&lt;a class="header-anchor" href="#%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8%e5%ad%a6%e4%b9%a0%e8%b7%af%e7%ba%bf">&lt;/a>
+&lt;/h2>&lt;p>&lt;img src="https://blog.000k.de/imgs/img-lazy-loading.gif" data-src="https://s1.ax1x.com/2023/04/18/p9iwnpt.jpg" alt="p9iwnpt.jpg" />&lt;/p>
+&lt;h2 id="一burpsuite学习">一、BurpSuite学习
+&lt;a class="header-anchor" href="#%e4%b8%80burpsuite%e5%ad%a6%e4%b9%a0">&lt;/a>
+&lt;/h2>&lt;p>1、使用浏览器给burp代理，进行拦截，获得数据，然后改文件名字或者MIME，达到符合前后端的过滤要求，等文件成功传输到后端，再用菜刀链接。&lt;/p></description></item><item><title>图解HTTP</title><link>https://blog.000k.de/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AC%94%E8%AE%B0/</link><pubDate>Thu, 18 May 2023 22:19:13 +0800</pubDate><guid>https://blog.000k.de/post/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AC%94%E8%AE%B0/</guid><description>&lt;h1 id="图解http">图解HTTP
+&lt;a class="header-anchor" href="#%e5%9b%be%e8%a7%a3http">&lt;/a>
+&lt;/h1>&lt;h2 id="http协议的职责客户端">HTTP协议的职责（客户端）
+&lt;a class="header-anchor" href="#http%e5%8d%8f%e8%ae%ae%e7%9a%84%e8%81%8c%e8%b4%a3%e5%ae%a2%e6%88%b7%e7%ab%af">&lt;/a>
+&lt;/h2>&lt;p>生成针对目标web服务器的HTTP请求报文&lt;/p>
+&lt;h2 id="tcp协议的职责客户端">TCP协议的职责（客户端）
+&lt;a class="header-anchor" href="#tcp%e5%8d%8f%e8%ae%ae%e7%9a%84%e8%81%8c%e8%b4%a3%e5%ae%a2%e6%88%b7%e7%ab%af">&lt;/a>
+&lt;/h2>&lt;p>为了方便通信，将HTTP请求报文分割成报文段按序号分成多个报文段，把每个报文段可靠地传给对方&lt;/p>
+&lt;h2 id="ip协议的职责路由器">IP协议的职责（路由器）
+&lt;a class="header-anchor" href="#ip%e5%8d%8f%e8%ae%ae%e7%9a%84%e8%81%8c%e8%b4%a3%e8%b7%af%e7%94%b1%e5%99%a8">&lt;/a>
+&lt;/h2>&lt;p>搜索对方的地址，一边中转一边传送&lt;/p></description></item><item><title>Vue项目学习</title><link>https://blog.000k.de/post/Studyweb.html</link><pubDate>Mon, 01 May 2023 22:19:13 +0800</pubDate><guid>https://blog.000k.de/post/Studyweb.html</guid><description>&lt;h1 id="vue学习笔记">Vue学习笔记
+&lt;a class="header-anchor" href="#vue%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0">&lt;/a>
+&lt;/h1>&lt;h2 id="一二维数组尝试">一、二维数组尝试
+&lt;a class="header-anchor" href="#%e4%b8%80%e4%ba%8c%e7%bb%b4%e6%95%b0%e7%bb%84%e5%b0%9d%e8%af%95">&lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt" id="hl-0-1">&lt;a class="lnlinks" href="#hl-0-1">1&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-2">&lt;a class="lnlinks" href="#hl-0-2">2&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-3">&lt;a class="lnlinks" href="#hl-0-3">3&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-4">&lt;a class="lnlinks" href="#hl-0-4">4&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-5">&lt;a class="lnlinks" href="#hl-0-5">5&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-6">&lt;a class="lnlinks" href="#hl-0-6">6&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-0-7">&lt;a class="lnlinks" href="#hl-0-7">7&lt;/a>
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-js" data-lang="js">&lt;span class="line">&lt;span class="cl">&lt;span class="kd">var&lt;/span> &lt;span class="nx">vm&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="nx">Vue&lt;/span>&lt;span class="p">({&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">	&lt;span class="nx">el&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="s2">&amp;#34;#app&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">	&lt;span class="nx">data&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">	&lt;span class="nx">huilv&lt;/span>&lt;span class="o">:&lt;/span>&lt;span class="p">[&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">	&lt;span class="p">[&lt;/span>&lt;span class="mf">6.8540&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mf">132.9787&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mf">1298.7013&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mf">1.3278&lt;/span>&lt;span class="p">],&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">	&lt;span class="p">[&lt;/span>&lt;span class="mf">6.8540&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mf">132.9787&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mf">1298.7013&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="mf">1.3278&lt;/span>&lt;span class="p">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">		&lt;span class="p">],}&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>
+
+&lt;h2 id="二watch监听实现">二、watch监听实现
+&lt;a class="header-anchor" href="#%e4%ba%8cwatch%e7%9b%91%e5%90%ac%e5%ae%9e%e7%8e%b0">&lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt" id="hl-1-1">&lt;a class="lnlinks" href="#hl-1-1">1&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-2">&lt;a class="lnlinks" href="#hl-1-2">2&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-3">&lt;a class="lnlinks" href="#hl-1-3">3&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-4">&lt;a class="lnlinks" href="#hl-1-4">4&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-5">&lt;a class="lnlinks" href="#hl-1-5">5&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-6">&lt;a class="lnlinks" href="#hl-1-6">6&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-7">&lt;a class="lnlinks" href="#hl-1-7">7&lt;/a>
+&lt;/span>&lt;span class="lnt" id="hl-1-8">&lt;a class="lnlinks" href="#hl-1-8">8&lt;/a>
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-javascript" data-lang="javascript">&lt;span class="line">&lt;span class="cl">&lt;span class="nx">watch&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">			&lt;span class="nx">first&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="kd">function&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">newValue&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">	 &lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">second&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nx">newValue&lt;/span> &lt;span class="o">*&lt;/span> &lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">huilv&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="nb">Number&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">firstbutton&lt;/span> &lt;span class="o">-&lt;/span> &lt;span class="mi">1&lt;/span>&lt;span class="p">)][&lt;/span>&lt;span class="nb">Number&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">secondbutton&lt;/span> &lt;span class="o">-&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">)];&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">					&lt;span class="p">},&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">			&lt;span class="nx">second&lt;/span>&lt;span class="o">:&lt;/span> &lt;span class="kd">function&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="nx">newValue&lt;/span>&lt;span class="p">)&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">		&lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">first&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="nx">newValue&lt;/span> &lt;span class="o">/&lt;/span> &lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">huilv&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="nb">Number&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">firstbutton&lt;/span> &lt;span class="o">-&lt;/span> &lt;span class="mi">1&lt;/span>&lt;span class="p">)][&lt;/span>&lt;span class="nb">Number&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="k">this&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="nx">secondbutton&lt;/span> &lt;span class="o">-&lt;/span>&lt;span class="mi">1&lt;/span>&lt;span class="p">)];&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">					&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">				&lt;span class="p">}&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>
+
+&lt;h2 id="三数组的更新检测">三、数组的更新检测
+&lt;a class="header-anchor" href="#%e4%b8%89%e6%95%b0%e7%bb%84%e7%9a%84%e6%9b%b4%e6%96%b0%e6%a3%80%e6%b5%8b">&lt;/a>
+&lt;/h2>&lt;h3 id="变更方法">#变更方法
+&lt;a class="header-anchor" href="#%e5%8f%98%e6%9b%b4%e6%96%b9%e6%b3%95">&lt;/a>
+&lt;/h3>&lt;p>Vue 将被侦听的数组的变更方法进行了包裹，所以它们也将会触发视图更新。这些被包裹过的方法包括：&lt;/p></description></item></channel></rss>

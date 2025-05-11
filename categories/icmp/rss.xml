@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ICMP on LinK's Blog</title><link>https://0linkun.github.io/categories/icmp/</link><description>Recent content in ICMP on LinK's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 27 May 2023 22:19:13 +0800</lastBuildDate><atom:link href="https://0linkun.github.io/categories/icmp/rss.xml" rel="self" type="application/rss+xml"/><item><title>ICMP数据报ping命令</title><link>https://0linkun.github.io/post/ping%E5%91%BD%E4%BB%A4/</link><pubDate>Sat, 27 May 2023 22:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/ping%E5%91%BD%E4%BB%A4/</guid><description>Q: 结合实例“ping www.sina.com ”给出 ping 命令的原理。 Ping命令是一种常用的网络诊断工具，可以检测主机之间的联通性，测试网络连接速度和带宽使用情况。该</description></item><item><title>ICMP数据报tracert命令</title><link>https://0linkun.github.io/post/tracert%E5%91%BD%E4%BB%A4/</link><pubDate>Sat, 27 May 2023 22:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/tracert%E5%91%BD%E4%BB%A4/</guid><description>Q: 结合实例“tracert www.163.com ”给出 tracert 命令的原理。 tracert命令是一款常用的网络诊断工具，它可以追踪Internet上从一个起始点到达另一</description></item><item><title>ICMP数据报Identifier中BE和LE的区别</title><link>https://0linkun.github.io/post/BEorLE.html</link><pubDate>Fri, 26 May 2023 22:19:13 +0800</pubDate><guid>https://0linkun.github.io/post/BEorLE.html</guid><description>Q: 在icmp数据报中的标识符 Identifier (BE): 512 (0x0200) Identifier (LE): 2 (0x0002)这两个标识符有什么区别，有什么用，说个例子解释一下 这两个标识符都是 ICMP 报文中的标识符</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ICMP on LinKer's Blog</title><link>https://blog.000k.de/categories/icmp/</link><description>Recent content in ICMP on LinKer's Blog</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Sat, 27 May 2023 22:19:13 +0800</lastBuildDate><atom:link href="https://blog.000k.de/categories/icmp/rss.xml" rel="self" type="application/rss+xml"/><item><title>ICMP数据报ping命令</title><link>https://blog.000k.de/post/ping%E5%91%BD%E4%BB%A4/</link><pubDate>Sat, 27 May 2023 22:19:13 +0800</pubDate><guid>https://blog.000k.de/post/ping%E5%91%BD%E4%BB%A4/</guid><description>&lt;blockquote>
+ &lt;p>Q: 结合实例“ping 
+&lt;a href="https://www.sina.com" title="www.sina.com" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ www.sina.com
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a>”给出 ping 命令的原理。&lt;/p>
+ &lt;/blockquote>
+&lt;p>Ping命令是一种常用的网络诊断工具，可以检测主机之间的联通性，测试网络连接速度和带宽使用情况。该命令发送一个数据包到目标主机，然后等待该主机响应，并记录来自目标主机的回复时间和信息，以供分析使用。&lt;/p></description></item><item><title>ICMP数据报tracert命令</title><link>https://blog.000k.de/post/tracert%E5%91%BD%E4%BB%A4/</link><pubDate>Sat, 27 May 2023 22:19:13 +0800</pubDate><guid>https://blog.000k.de/post/tracert%E5%91%BD%E4%BB%A4/</guid><description>&lt;blockquote>
+ &lt;p>Q: 结合实例“tracert 
+&lt;a href="https://www.163.com" title="www.163.com" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ www.163.com
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a>”给出 tracert 命令的原理。&lt;/p>
+ &lt;/blockquote>
+&lt;p>tracert命令是一款常用的网络诊断工具，它可以追踪Internet上从一个起始点到达另一个目的地的路由路径，并显示每个跃点的延迟时间。当我们执行“tracert 
+&lt;a href="https://www.163.com" title="www.163.com" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ www.163.com
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a>”的时候，操作系统就会发送一系列的数据包探测从本机到目标地址的路由，其中包括访问的每个信号跳跃点的详细信息。接下来，我将简要介绍一下“tracert”命令的原理。&lt;/p></description></item><item><title>ICMP数据报Identifier中BE和LE的区别</title><link>https://blog.000k.de/post/BEorLE.html</link><pubDate>Fri, 26 May 2023 22:19:13 +0800</pubDate><guid>https://blog.000k.de/post/BEorLE.html</guid><description>&lt;blockquote>
+ &lt;p>Q: 在icmp数据报中的标识符 Identifier (BE): 512 (0x0200) Identifier (LE): 2 (0x0002)这两个标识符有什么区别，有什么用，说个例子解释一下&lt;/p>
+ &lt;/blockquote>
+&lt;p>这两个标识符都是 ICMP 报文中的标识符字段，用于标识发送方发送的 ICMP 报文。区别在于 BE 和 LE 分别代表大端序和小端序，即字节序的不同。&lt;/p></description></item></channel></rss>
