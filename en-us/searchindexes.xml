@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>About Hugo NexT Organization</title><url>/en-us/about.html</url><categories/><tags/><content type="html"><![CDATA[  The Hugo NexT organization is jointly established by numerous friends from around the world who are fond of the NexT theme and style. The aim is to continue promoting and enhancing this theme within the Hugo engine. We warmly welcome you to join us!
-Our Vision Continuing the classic black-and-white color scheme of NexT, it maintains simple usability and powerful functionality.
-Usage Feedback Join the online discussions on GitHub Discussions or Gitter &#x1f37b; GitHub Issues Submit a bug report &#x1f41b; GitHub Feature to propose new feature ideas &#x2728; Info Chinese&rsquo;s users can also join the QQ group for communication: 604710815
-  ]]></content></entry><entry><title>Demo Sites</title><url>/en-us/flinks.html</url><categories/><tags/><content type="html">  If you want to exchange friendly links on this site, please leave your site information in the comment section. The format reference is as follows:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>关于我</title><url>/en-us/about.html</url><categories/><tags/><content type="html">   月白星辰挂长空；萦绕悠扬寂寥风。
+舞琴弄墨各不同；骑马过海踏天虹。
+这个博客会写一些学习心得，和生活随笔。 有时候会很懒，心情也会不固定，时晴时雨，就想写博客记录自己的生活。
+曾经有个笔名叫幻天林少，还写过小说，当时还是太天真了，不过还是算一个能在互联网搜索到的男人了，做一个自己的小小天地，在互联网这个世界中留下自己的印记。
+这个博客开始于2023年5月~~~
+  </content></entry><entry><title>Demo Sites</title><url>/en-us/flinks.html</url><categories/><tags/><content type="html">  If you want to exchange friendly links on this site, please leave your site information in the comment section. The format reference is as follows:
 1 2 3 4 - name: Linker desc: Linker的博客 avatar: https://blog.000k.de/imgs/hugo_next_avatar.png link: https://blog.000k.de   </content></entry></search>
