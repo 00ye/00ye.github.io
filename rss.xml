@@ -2162,7 +2162,9 @@ $_GET[&amp;lsquo;syc&amp;rsquo;] !== &amp;lsquo;Welcome to GEEK 2023!&amp;rsquo;
 &lt;a class="header-anchor" href="#%e4%b8%89%e6%95%b0%e7%bb%84%e7%9a%84%e6%9b%b4%e6%96%b0%e6%a3%80%e6%b5%8b">&lt;/a>
 &lt;/h2>&lt;h3 id="变更方法">#变更方法
 &lt;a class="header-anchor" href="#%e5%8f%98%e6%9b%b4%e6%96%b9%e6%b3%95">&lt;/a>
-&lt;/h3>&lt;p>Vue 将被侦听的数组的变更方法进行了包裹，所以它们也将会触发视图更新。这些被包裹过的方法包括：&lt;/p></description></item><item><title>站点示例</title><link>https://blog.000k.de/flinks.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.000k.de/flinks.html</guid><description>&lt;p>如想交换本站友情链接，请在评论区留下你的站点信息，格式参考如下：&lt;/p>
+&lt;/h3>&lt;p>Vue 将被侦听的数组的变更方法进行了包裹，所以它们也将会触发视图更新。这些被包裹过的方法包括：&lt;/p></description></item><item><title>为什么我不怎么会写作</title><link>https://blog.000k.de/myday/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%B8%8D%E6%80%8E%E4%B9%88%E4%BC%9A%E5%86%99%E4%BD%9C/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.000k.de/myday/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%B8%8D%E6%80%8E%E4%B9%88%E4%BC%9A%E5%86%99%E4%BD%9C/</guid><description>&lt;p>我想了想，可能是我说的话不够长，不够连贯吧。只有多写写，不要删除，只需要变换语序，把内心真实的想法留下来才是写作的重要意义。
+就在刚刚，一个初中生在网站上抱怨初中生补课时间占了大半，不再像小学的时候周末都能出去玩了。在编辑给他的回复时候，我发现虽然自己有很多话说，但很多又不能真正的说不出口。难道真的发送一句你还不够累，多想想你的以后，这不符合这位初中生来倾诉想要得到的东西，也会导致我变成只会说教的怪大人，所以我只是发了句你只是累了。
+写作其实对我来说不难，但也是很难的，在心里面想并不妨碍任何人，但如果写出来就可能让后来者误判本时的作者是怎么想的，就会让我文笔变得畏手畏脚，写又删除，始终完成不了长文。可能这就是一个优柔寡断的人的内心真实想法。但如果我真的想写作就得坚持写下去，因为读者不多，不会有人太看重我的看法，而最重要的一点是，我想写下来，把想到的写下来是一个很重要的能力。&lt;/p></description></item><item><title>站点示例</title><link>https://blog.000k.de/flinks.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.000k.de/flinks.html</guid><description>&lt;p>如想交换本站友情链接，请在评论区留下你的站点信息，格式参考如下：&lt;/p>
 
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
