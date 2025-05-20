@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>日常杂谈</title><url>/myday/mydayone.html</url><categories><category>myday</category></categories><tags><tag>myday</tag></tags><content type="html">  日常杂谈专区建设成功 只需要在content文件夹下新建myday文件夹，再把archives文件夹下的_index.md文件移动进来即可新建栏目。
-  </content></entry><entry><title>为什么我不去图书馆借书了</title><url>/myday/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%B8%8D%E5%86%8D%E5%8E%BB%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%80%9F%E4%B9%A6%E4%BA%86/</url><categories><category>day</category></categories><tags><tag>day</tag></tags><content type="html">  在刚刚进来大学的前两年，我每个寒暑假都会从图书馆借书籍回去看
+  </content></entry><entry><title>新io：nio的学习</title><url>/post/%E6%96%B0ionio%E7%9A%84%E5%AD%A6%E4%B9%A0/</url><categories><category>nio</category></categories><tags><tag>nio</tag></tags><content type="html">  OIO是面向流（Stream Oriented）的，NIO是面向缓冲区（Buffer Oriented）的。
+与 Java IO 不同，Java NIO 是一个面向缓冲区的包。这意味着数据是从通道读取到缓冲区中，然后进一步处理。例如，一个线程请求通道将数据读取到缓冲区中，而在通道同时将数据读取到缓冲区的过程中，线程可以去做其他工作。一旦数据被读取到缓冲区，线程就可以继续处理在读取操作期间留下的工作。因此，NIO 是一种双向数据传输。
+OIO的操作是阻塞的，而NIO的操作是非阻塞的。
+与 Java IO 不同，Java NIO 是一种非阻塞 IO。这意味着如果一个线程正在调用 read() 或 write() 操作，该线程不会被阻塞，直到有数据可读或数据完全写入，而是可以继续执行其他任务。这就是它被称为异步 IO 或非阻塞 IO 的原因。
+基本上，所有的 IO 在NIO 中都从一个Channel 开始。Channel 有点像流。
+数据可以从Channel读到Buffer中，也可以从Buffer 写到Channel中。
+Channel的实现 这些是Java NIO中最重要的通道的实现：
+FileChannel DatagramChannel SocketChannel ServerSocketChannel FileChannel 从文件中读写数据。
+DatagramChannel 能通过UDP读写网络中的数据。
+SocketChannel 能通过TCP读写网络中的数据。
+ServerSocketChannel可以监听新进来的TCP连接，像Web服务器那样。对每一个新进来的连接都会创建一个SocketChannel。
+1 FileChannel inChannel = aFile.getChannel(); 从file对象获取filechannel通道对象，FileChannel是javanio中用于文件读写操作的通道，提供比传统文件流读写更高效灵活
+buffer的实现 以下是Java NIO里关键的Buffer实现：
+ByteBuffer CharBuffer DoubleBuffer FloatBuffer IntBuffer LongBuffer ShortBuffer 这些Buffer覆盖了你能通过IO发送的基本数据类型：byte, short, int, …  </content></entry><entry><title>为什么我不去图书馆借书了</title><url>/myday/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%B8%8D%E5%86%8D%E5%8E%BB%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%80%9F%E4%B9%A6%E4%BA%86/</url><categories><category>day</category></categories><tags><tag>day</tag></tags><content type="html">  在刚刚进来大学的前两年，我每个寒暑假都会从图书馆借书籍回去看
 虽然不多，但好歹编程技术也借了13本，文学书籍也借了11本，也算是超过了百分之96的同学了。
 回想起第一第二年的时候，对图书馆抱有敬意，深深地认为图书馆就是学习的最高殿堂、最好的圣地，虽然现在依旧这么认为，但却不再多涉足图书馆。为什么呢，感觉理由很多。
 看不下去长篇小说，拿起长达一百多页的小说就头疼，除非就好像在抖音上面先将高潮部分展现出来，才有兴趣去将视频或电子小说读起来，不然从第一篇开始的人物没介绍完，书就已经看腻了。也就是没有带着兴趣、问题来读书的，读不长久。而图书馆里面的书是死的，没有人为他的高潮部分宣传，他自然而然地被尘封在书架上，即使有时候会在网络上看到众人推荐的一本书，也会优先在电子书库下载，而不会千里迢迢地跑去图书馆来检索书架号找到书籍。 对书籍渴望的源泉之一：技术不再需要在书籍上面获取了，自从在互联网上面开始遨游，就会不断地遇见厉害的大佬分享好的技术手册或博客，这上面的知识点让我获益不已，所以暂停了图书馆中的求学之旅也是正常不过。 那最后总结一下我为什么后面都不去图书馆借书了，不想读书。
