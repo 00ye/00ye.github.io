@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>日常杂谈</title><url>/myday/mydayone.html</url><categories><category>myday</category></categories><tags><tag>myday</tag></tags><content type="html">  日常杂谈专区建设成功 只需要在content文件夹下新建myday文件夹，再把archives文件夹下的_index.md文件移动进来即可新建栏目。
-  </content></entry><entry><title>新io：nio的学习</title><url>/post/%E6%96%B0ionio%E7%9A%84%E5%AD%A6%E4%B9%A0/</url><categories><category>nio</category></categories><tags><tag>nio</tag></tags><content type="html">  OIO是面向流（Stream Oriented）的，NIO是面向缓冲区（Buffer Oriented）的。
+  </content></entry><entry><title>Keepass的初次使用记录笔记</title><url>/post/keepass%E7%9A%84%E5%88%9D%E6%AC%A1%E4%BD%BF%E7%94%A8%E8%AE%B0%E5%BD%95%E7%AC%94%E8%AE%B0/</url><categories><category>软件</category></categories><tags><tag>软件</tag></tags><content type="html">  初次使用 今天在使用网友自制分享的账号密码管理器V9.0，点卡后界面加载又卡，密码还不能复制，搜索也频出事故，所以一气之下马上更换密码管理器，但首要任务是将我的70多个密码完全取出来，这个v9.0超级落后，不能一键导出，只得我到他存储密码的json文件中去删除掉加密后的密码，将我的密码从管理器中一个一个复制出来，花了我好长时间。
+然后在互联网上面找，发现其他的都会有收费的影响害怕后面还要变更，我喜欢本地能够实现全部功能那种，不是很需要特别云端，所以看了好久就看中了keepass。
+keepass的pc端是https://keepass.info/，我使用的keepass生态的安卓端是https://github.com/PhilippC/keepass2android
+我用的是 2.58免解压版本 ，，解压即可使用，不喜欢需要安装的，节省c盘。
+解压完毕后，到官网下载 语言插件 ，
+现在的首要任务是将得到的json转换成keepass接受的csv文件，这个网络上面在线转换很多，只需要对好语法就行。
+json转换成csv时候/符号是需要注意的，我就因为密码里面有这个报错了
+然后下载好官网上面的例子 csv 。在里面进行选择移动，再导入到keepass就行了。
+同步功能 按照网上很多人推荐坚果云同步，我也试了一下，确实很容易操作，但坚果云的同步对于我来说也是个黑匣子，我尝试了一下更改电脑上面的数据库，同步到坚果云中，再在手机进行数据库同步，并没有什么变化，不知道是同步上去出了问题，还是同步下来出了问题，毕竟是新手，所以果断放弃坚果云同步。转身投向ftp同步。
+我只需要在我的电脑上面开启小p面板，开启ftp功能，然后手机在同一个局域网就能同步消息了，而账号密码也没有那么频繁的更换，所以需要同步的时候开启一下ftp同步就行了，剩下的时候手机用本地缓存。
+关于keepass同步 为了搞清楚keepass在同步上面的机制，如果我手机端添加了新密码，那电脑端没有，通过ftp同步是将手机端的删除，还是合并到电脑端，像这类的问题出现有很多，就是数据库的访问一定要搞清楚。
+KeePass 2.x 具有强大的内置同步机制。可以安全地合并在数据库文件的多个副本中所做的更改。
+技术细节
+为了判断对象的哪个副本是最新的，KeePass 主要使用对象的最后修改时间（每次对象更改时 KeePass …  </content></entry><entry><title>新io：nio的学习</title><url>/post/%E6%96%B0ionio%E7%9A%84%E5%AD%A6%E4%B9%A0/</url><categories><category>nio</category></categories><tags><tag>nio</tag></tags><content type="html">  OIO是面向流（Stream Oriented）的，NIO是面向缓冲区（Buffer Oriented）的。
 与 Java IO 不同，Java NIO 是一个面向缓冲区的包。这意味着数据是从通道读取到缓冲区中，然后进一步处理。例如，一个线程请求通道将数据读取到缓冲区中，而在通道同时将数据读取到缓冲区的过程中，线程可以去做其他工作。一旦数据被读取到缓冲区，线程就可以继续处理在读取操作期间留下的工作。因此，NIO 是一种双向数据传输。
 OIO的操作是阻塞的，而NIO的操作是非阻塞的。
 与 Java IO 不同，Java NIO 是一种非阻塞 IO。这意味着如果一个线程正在调用 read() 或 write() 操作，该线程不会被阻塞，直到有数据可读或数据完全写入，而是可以继续执行其他任务。这就是它被称为异步 IO 或非阻塞 IO 的原因。
