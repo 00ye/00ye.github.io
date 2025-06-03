@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>日常杂谈</title><url>/myday/mydayone.html</url><categories><category>myday</category></categories><tags><tag>myday</tag></tags><content type="html">  日常杂谈专区建设成功 只需要在content文件夹下新建myday文件夹，再把archives文件夹下的_index.md文件移动进来即可新建栏目。
+  </content></entry><entry><title>有多久没看夕阳了</title><url>/myday/%E5%A4%95%E9%98%B3%E8%A5%BF%E4%B8%8B/</url><categories><category>day</category></categories><tags><tag>day</tag></tags><content type="html">  
+今天吃的挺饱的，出来消消食，夕阳很好看
+天地成一片橙
   </content></entry><entry><title>CFM后门马的学习研究</title><url>/post/cfm%E5%90%8E%E9%97%A8%E9%A9%AC%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%A0%94%E7%A9%B6/</url><categories><category>shell</category></categories><tags><tag>shell</tag></tags><content type="html"><![CDATA[  在木马文件夹中发现一类叫CFM后门马的木马，没见过来学习一下。
 CFM文件是什么 CFM 文件是一个包含 ColdFusion 代码或 CFML（ColdFusion 标记语言）的网页。当用户访问该页面时，它会由 ColdFusion 网络服务器动态执行
 2种文件类型 使用 .cfm 文件扩展名。
