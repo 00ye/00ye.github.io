@@ -289,7 +289,7 @@ sqlmap 是一款由 Python 语言编写的自动化检测与利用 SQL 注入漏
 博客大事记 2023.5启动hugo-next博客
 2025.4.26 购买000k.de域名，并绑定blog.000k.de
 2025.5启动多博客wiki.000k.de，linker.zz.ac
-博客主题——Next   </content></entry><entry><title>Codebreakers战队 WriteUp</title><url>/post/Codebreakers%E2%80%99sWriteUp.html</url><categories><category>CTF</category></categories><tags><tag>比赛结果</tag></tags><content type="html">  排名 战队名称：第225名
+域名 注册时间 到期时间 用途 000k.de 2025.04.26 2026.04.26 个人博客 000k.dpdns.org 2025.04.28 2026.04.28 略 00lc.dpdns.org 2025.04.28 2026.04.28 略 0linc.dpdns.org 2025.05.08 2026.05.08 弟弟博客 link0.dpdns.org 2025.05.08 2026.05.08 略 linker.zz.ac 2025.05.12 无限 个人博客 dream.tun.re 2025.06.06 2026/6/6 个人主页 gwy.tun.re 2025.06.06 2026.06.06 个人论坛 dgut.tun.re 2025.0605 2026.06.05 个人vps wiki.loc.cc 2025.06.01 2030.06.01 略 中国.loc.cc 2025.06.01 2030.06.01 略 000.loc.cc 2025.05.31 2030.05.31 略 博客主题——Next   </content></entry><entry><title>Codebreakers战队 WriteUp</title><url>/post/Codebreakers%E2%80%99sWriteUp.html</url><categories><category>CTF</category></categories><tags><tag>比赛结果</tag></tags><content type="html">  排名 战队名称：第225名
 ]
 解题思路 1、解压管道压缩包得到一张图片
 2、将图片用StegSolve打开，不断查看图片各个通道，会发现在单色0通道上左上角出现白色条纹，却中间图案非常混杂，即可得知在图片的混杂数据。
