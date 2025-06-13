@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>日常杂谈</title><url>/myday/mydayone.html</url><categories><category>myday</category></categories><tags><tag>myday</tag></tags><content type="html">  日常杂谈专区建设成功 只需要在content文件夹下新建myday文件夹，再把archives文件夹下的_index.md文件移动进来即可新建栏目。
-  </content></entry><entry><title>有多久没看夕阳了</title><url>/myday/%E5%A4%95%E9%98%B3%E8%A5%BF%E4%B8%8B/</url><categories><category>day</category></categories><tags><tag>day</tag></tags><content type="html">  
+  </content></entry><entry><title>谈银行柜员拿放大镜办业务被质疑</title><url>/talk/%E8%B0%88%E9%93%B6%E8%A1%8C%E6%9F%9C%E5%91%98%E6%8B%BF%E6%94%BE%E5%A4%A7%E9%95%9C%E5%8A%9E%E4%B8%9A%E5%8A%A1%E8%A2%AB%E8%B4%A8%E7%96%91/</url><categories><category>talk</category></categories><tags><tag>talk</tag></tags><content type="html">  在热点里面看到这样一个搞笑的新闻，让人不仅害怕，也值得制度设定者去真正了解延迟退休的情况。
+这个柜员本身因为做过视网膜脱落手术导致视力有点问题，在柜员岗位上面拿着放大镜给客户办理业务，即使客户是排第一个办理业务的，但仍然办理了一个小时的业务，随即把这一啼笑皆非让人不解的现象发到网络上面，引起众人议论。
+银行随即出来澄清，将自己撇除在舆论之外，表示人力部门和该柜员沟通过，但柜员坚持要上岗到60岁才退休（目前58岁）。
+本次讨论的分方向分为三点。
+该柜员是否属于能够正常履行职责，考虑到柜员的身体健康，人力部门仍然安排该柜员在柜台岗位，工作却得看着放大镜里面的内容，首先，电脑里面字体大小不适合他正常履行工作职责，不能够进行调整只能够借助外部工具，这说明身体跟不上工作需求。 该银行是否只有柜员岗位提供给该柜员工作，我不是很了解银行内部的工作调整，当初报名银行的时候，有说过让我们实习生轮岗实习最后再确定岗位，也算是人尽其才，那为什么这位柜员无法从柜台后走向柜台前，实现自己全部的价值，而不是浪费客户的时间。即使他想在熟悉的岗位上面发光发热，但人力部门也有必要了解介入调岗，而不是口头的关心。真的怀疑银行内部调动岗位无比艰难，庆幸当初没有选择银行。 坚持到60岁退休时个笑话，在生活有富余的情况下，谁想上班当牛马。就算想做牛马，谁想做柜员，时时刻刻面对客户，有时候还会被刁难。那回过头来想想这延迟退休的政策，让一些人留在岗位上面却无法正常有效的解决问题，这不是浪费社会的资源吗？ 从题里讲出来，这个社会总是有着这样那样的人情世故，就如昨天我去这边的党群服务中心询问毕业生党籍转移手续如何办理时，回答中无不透露不想你转过来的语气，最后一句话都没有涉及到转接流程。
+所说的人人和谐相处的美好社会，总是会让一些人搞上老鼠屎，回来才听我妈说，这个党群服务中心的主任，员工都讨厌他，揽着一揽子事却不给人办事，利用规则漏洞尽可能不办事。
+这个社会假如办事处处都是这样子碰壁，却也如我爸所说的，只有你有背景才能顺利，那我只能说真的构式。当然，主任构式，其他人被迫吃。
+新闻来源   </content></entry><entry><title>有多久没看夕阳了</title><url>/myday/%E5%A4%95%E9%98%B3%E8%A5%BF%E4%B8%8B/</url><categories><category>day</category></categories><tags><tag>day</tag></tags><content type="html">  
 今天吃的挺饱的，出来消消食，夕阳很好看
 天地成一片橙
   </content></entry><entry><title>CFM后门马的学习研究</title><url>/post/cfm%E5%90%8E%E9%97%A8%E9%A9%AC%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%A0%94%E7%A9%B6/</url><categories><category>shell</category></categories><tags><tag>shell</tag></tags><content type="html"><![CDATA[  在木马文件夹中发现一类叫CFM后门马的木马，没见过来学习一下。
