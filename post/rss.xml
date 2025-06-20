@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on L1nkGr's Blog</title><link>https://blog.000k.de/post/</link><description>Recent content in Posts on L1nkGr's Blog</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Thu, 19 Jun 2025 08:32:37 +0800</lastBuildDate><atom:link href="https://blog.000k.de/post/rss.xml" rel="self" type="application/rss+xml"/><item><title>资源汇总</title><link>https://blog.000k.de/post/%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB/</link><pubDate>Thu, 19 Jun 2025 08:32:37 +0800</pubDate><guid>https://blog.000k.de/post/%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB/</guid><description>&lt;h4 id="知乎盐选">知乎盐选
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on L1nkGr's Blog</title><link>https://blog.000k.de/post/</link><description>Recent content in Posts on L1nkGr's Blog</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Fri, 20 Jun 2025 08:53:57 +0800</lastBuildDate><atom:link href="https://blog.000k.de/post/rss.xml" rel="self" type="application/rss+xml"/><item><title>vim命令汇总</title><link>https://blog.000k.de/post/vim%E5%91%BD%E4%BB%A4%E6%B1%87%E6%80%BB/</link><pubDate>Fri, 20 Jun 2025 08:53:57 +0800</pubDate><guid>https://blog.000k.de/post/vim%E5%91%BD%E4%BB%A4%E6%B1%87%E6%80%BB/</guid><description>&lt;h3 id="一模式切换">&lt;strong>一、模式切换&lt;/strong>
+&lt;a class="header-anchor" href="#%e4%b8%80%e6%a8%a1%e5%bc%8f%e5%88%87%e6%8d%a2">&lt;/a>
+&lt;/h3>&lt;ol>
+&lt;li>命令模式（Normal Mode）
+&lt;ul>
+&lt;li>默认进入模式，按 &lt;code>Esc&lt;/code> 返回。&lt;/li>
+&lt;li>&lt;strong>插入模式&lt;/strong>：&lt;code>i&lt;/code>（光标前）、&lt;code>a&lt;/code>（光标后）、&lt;code>I&lt;/code>（行首）、&lt;code>A&lt;/code>（行尾）、&lt;code>o&lt;/code>（下一行）、&lt;code>O&lt;/code>（上一行）。&lt;/li>
+&lt;li>&lt;strong>末行模式&lt;/strong>：&lt;code>:&lt;/code>（执行保存、退出等命令）、&lt;code>/&lt;/code>（向下搜索）、&lt;code>?&lt;/code>（向上搜索）。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>退出插入/末行模式&lt;/strong>：按 &lt;code>Esc&lt;/code> 键。&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h3 id="二文件操作">&lt;strong>二、文件操作&lt;/strong>
+&lt;a class="header-anchor" href="#%e4%ba%8c%e6%96%87%e4%bb%b6%e6%93%8d%e4%bd%9c">&lt;/a>
+&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>保存与退出&lt;/p></description></item><item><title>资源汇总</title><link>https://blog.000k.de/post/%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB/</link><pubDate>Thu, 19 Jun 2025 08:32:37 +0800</pubDate><guid>https://blog.000k.de/post/%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB/</guid><description>&lt;h4 id="知乎盐选">知乎盐选
 &lt;a class="header-anchor" href="#%e7%9f%a5%e4%b9%8e%e7%9b%90%e9%80%89">&lt;/a>
 &lt;/h4>&lt;table>
  &lt;thead>
